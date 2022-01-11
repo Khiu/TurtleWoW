@@ -1,0 +1,4935 @@
+INCOMPLETE: 499 items
+
+[
+    {
+        "name": "2Armored Dark Rider's Steed",
+        "description": "Dead or alive, you're coming with me.",
+        "classs": 15,
+        "subclass": 4,
+        "id": 81090,
+        "__si": 0
+    },
+    {
+        "name": "2Blade of Infinite Mysteries",
+        "description": "Forged from glass smelted from the very sands of time that flow in the Caverns of Time.",
+        "classs": 2,
+        "subclass": 7,
+        "id": 61006,
+        "__si": 1
+    },
+    {
+        "name": "2Darkmoon Strider",
+        "description": "Only the bravest adventurers can ride it.",
+        "classs": 15,
+        "subclass": 4,
+        "id": 50075,
+        "__si": 2
+    },
+    {
+        "name": "3Anniversary Gift",
+        "description": "It's Turtle WoW's 3rd anniversary! Many thanks for being the best gaming community in the world!",
+        "classs": 15,
+        "subclass": 0,
+        "id": 83270,
+        "__si": 3
+    },
+    {
+        "name": "3Brown Tallstrider",
+        "description": "",
+        "classs": 15,
+        "subclass": 4,
+        "id": 50072,
+        "__si": 4
+    },
+    {
+        "name": "3Bulwark of the Damned",
+        "description": "Our fate cannot be taken from us...",
+        "classs": 4,
+        "subclass": 4,
+        "id": 80181,
+        "__si": 5
+    },
+    {
+        "name": "3Chausses of the Damned",
+        "description": "These dwell among the blackest souls...",
+        "classs": 4,
+        "subclass": 4,
+        "id": 80183,
+        "__si": 6
+    },
+    {
+        "name": "3Crown of the Damned",
+        "description": "Abandon all hope...",
+        "classs": 4,
+        "subclass": 4,
+        "id": 80180,
+        "__si": 7
+    },
+    {
+        "name": "3Cryptkeeper's Pike",
+        "description": "",
+        "classs": 2,
+        "subclass": 6,
+        "id": 83461,
+        "__si": 8
+    },
+    {
+        "name": "3Cryptwatcher's Call",
+        "description": "",
+        "classs": 2,
+        "subclass": 19,
+        "id": 83467,
+        "__si": 9
+    },
+    {
+        "name": "3Epaulets of the Damned",
+        "description": "We were men once...",
+        "classs": 4,
+        "subclass": 4,
+        "id": 80186,
+        "__si": 10
+    },
+    {
+        "name": "3Girdle of the Damned",
+        "description": "Let us descend now into the blind world...",
+        "classs": 4,
+        "subclass": 4,
+        "id": 80184,
+        "__si": 11
+    },
+    {
+        "name": "3Grasps of the Damned",
+        "description": "Here pity only lives when it is dead...",
+        "classs": 4,
+        "subclass": 4,
+        "id": 80185,
+        "__si": 12
+    },
+    {
+        "name": "3Gray Tallstrider",
+        "description": "",
+        "classs": 15,
+        "subclass": 4,
+        "id": 50073,
+        "__si": 13
+    },
+    {
+        "name": "3Ivory Tallstrider",
+        "description": "",
+        "classs": 15,
+        "subclass": 4,
+        "id": 50071,
+        "__si": 14
+    },
+    {
+        "name": "3Large Pouch of Fashion Coins",
+        "description": "",
+        "classs": 15,
+        "subclass": 0,
+        "id": 51306,
+        "__si": 15
+    },
+    {
+        "name": "3Archaic Slicer",
+        "description": "",
+        "reqlevel": 29,
+        "classs": 2,
+        "subclass": 1,
+        "id": 51753,
+        "__si": 16
+    },
+    {
+        "name": "3Irradiated Ring",
+        "description": "Nothing can clean the radiation.",
+        "reqlevel": 29,
+        "classs": 4,
+        "subclass": 0,
+        "id": 80737,
+        "__si": 17
+    },
+    {
+        "name": "3Blackshackle Bracers",
+        "description": "",
+        "reqlevel": 59,
+        "classs": 4,
+        "subclass": 3,
+        "id": 81368,
+        "__si": 18
+    },
+    {
+        "name": "2Sword of a Thousand Truths",
+        "description": "It was foretold, that one day, heroes who could wield the sword might reveal themselves.",
+        "reqlevel": 60,
+        "classs": 2,
+        "subclass": 14,
+        "id": 50094,
+        "__si": 19
+    },
+    {
+        "name": "2Pompa's Scratching Stick",
+        "description": "Only a madman would scratch with this.",
+        "level": 5,
+        "classs": 2,
+        "subclass": 8,
+        "id": 50243,
+        "__si": 20
+    },
+    {
+        "name": "2Scarab Lord's Garments",
+        "description": "I squashed bugs for 10 hours and all I got was this lousy shirt.",
+        "level": 15,
+        "classs": 4,
+        "subclass": 0,
+        "id": 51901,
+        "__si": 21
+    },
+    {
+        "name": "3Adventurer's Shirt",
+        "description": "A gift received during Turtle WoW's Open House event in 2020.",
+        "level": 15,
+        "classs": 4,
+        "subclass": 0,
+        "id": 51890,
+        "__si": 22
+    },
+    {
+        "name": "3Free T-Shirt",
+        "description": "A gift received during Turtle WoW's Open House event in 2021. The tag reads “Made in Mudsprocket”.",
+        "level": 15,
+        "classs": 4,
+        "subclass": 0,
+        "id": 51894,
+        "__si": 23
+    },
+    {
+        "name": "2Armored Alliance Steed",
+        "description": "Armored to withstand collisions in battle.",
+        "level": 20,
+        "classs": 15,
+        "subclass": 4,
+        "id": 80449,
+        "__si": 24
+    },
+    {
+        "name": "2Armored Black Bear",
+        "description": "This ursine mount's swiftness is enhanced by its heavy armor.",
+        "level": 20,
+        "classs": 15,
+        "subclass": 4,
+        "id": 81154,
+        "__si": 25
+    },
+    {
+        "name": "2Armored Brewfest Ram",
+        "description": "Dwarves attribute this breed's even temperament to rigorous training, but other races argue that a daily diet of strong ale has something to do with it.",
+        "level": 20,
+        "classs": 15,
+        "subclass": 4,
+        "id": 80443,
+        "__si": 26
+    },
+    {
+        "name": "2Armored Frostmane Bear",
+        "description": "This ursine mount's swiftness is enhanced by its heavy armor.",
+        "level": 20,
+        "classs": 15,
+        "subclass": 4,
+        "id": 81158,
+        "__si": 27
+    },
+    {
+        "name": "2Armored Purple Bear",
+        "description": "This ursine mount's swiftness is enhanced by its heavy armor.",
+        "level": 20,
+        "classs": 15,
+        "subclass": 4,
+        "id": 81153,
+        "__si": 28
+    },
+    {
+        "name": "2Armored Red Bear",
+        "description": "This ursine mount's swiftness is enhanced by its heavy armor.",
+        "level": 20,
+        "classs": 15,
+        "subclass": 4,
+        "id": 81155,
+        "__si": 29
+    },
+    {
+        "name": "2Armored Spectral Tiger",
+        "description": "Historians claim that these incorporeal beasts were created when Draenor exploded, unleashing energies that warped the world's flora and fauna.",
+        "level": 20,
+        "classs": 15,
+        "subclass": 4,
+        "id": 80430,
+        "__si": 30
+    },
+    {
+        "name": "2Big Blizzard Bear",
+        "description": "Just remember to have your special little passenger straped in tightly before running off at top speed on an adventure.",
+        "level": 20,
+        "classs": 15,
+        "subclass": 4,
+        "id": 81091,
+        "__si": 31
+    },
+    {
+        "name": "2Cenarion Hippogryph",
+        "description": "Members of the Cenarion Circle have shared a long and prosperous partnership with their hippogryph allies. When conflict is unavoidable, the Cenarion War Hippogryph is called into service.",
+        "level": 20,
+        "classs": 15,
+        "subclass": 4,
+        "id": 81121,
+        "__si": 32
+    },
+    {
+        "name": "2Darkmoon Dancing Bear",
+        "description": "These fearsome mounts have a habit of suddenly breaking out into dance amid battle, much to the annoyance of their riders.",
+        "level": 20,
+        "classs": 15,
+        "subclass": 4,
+        "id": 81102,
+        "__si": 33
+    },
+    {
+        "name": "2Frayfeather Hippogryph",
+        "description": "Ancient mounts of the Highborne, they can rarely be found due to their latent magical powers.",
+        "level": 20,
+        "classs": 15,
+        "subclass": 4,
+        "id": 81120,
+        "__si": 34
+    },
+    {
+        "name": "2Reins of the Armored Dragonhawk",
+        "description": "Dragonhawks are among the deadliest known predators. They are able to spot prey from great distances, rush in, and rend with both talon and beak.",
+        "level": 20,
+        "classs": 15,
+        "subclass": 4,
+        "id": 81156,
+        "__si": 35
+    },
+    {
+        "name": "2Reins of the Raven Lord",
+        "description": "The rest be forgotten to walk upon the ground, clipped wings and shame.",
+        "level": 20,
+        "classs": 15,
+        "subclass": 4,
+        "id": 81100,
+        "__si": 36
+    },
+    {
+        "name": "3Armored Brewfest Kodo",
+        "description": "",
+        "level": 20,
+        "classs": 15,
+        "subclass": 4,
+        "id": 80455,
+        "__si": 37
+    },
+    {
+        "name": "3Armored Horde Wolf",
+        "description": "If asked to fetch, will most likely bring you back the head of a small mammal or humanoid.",
+        "level": 20,
+        "classs": 15,
+        "subclass": 4,
+        "id": 80447,
+        "__si": 38
+    },
+    {
+        "name": "3Mr. Tails",
+        "description": "Save up on acorns along the way and share some undivided attention & love with Mr.Tails and he'll be the best companion on your long journey through Azeroth.",
+        "level": 20,
+        "classs": 15,
+        "subclass": 0,
+        "id": 83272,
+        "__si": 39
+    },
+    {
+        "name": "3Enchanted Defias Mask",
+        "description": "",
+        "level": 21,
+        "reqlevel": 16,
+        "classs": 4,
+        "subclass": 2,
+        "id": 81007,
+        "__si": 40
+    },
+    {
+        "name": "3Energized Spear",
+        "description": "",
+        "level": 21,
+        "reqlevel": 16,
+        "classs": 2,
+        "subclass": 6,
+        "id": 80811,
+        "__si": 41
+    },
+    {
+        "name": "3Guardian Staff",
+        "description": "",
+        "level": 21,
+        "reqlevel": 16,
+        "classs": 2,
+        "subclass": 10,
+        "id": 80709,
+        "__si": 42
+    },
+    {
+        "name": "3Ogremight Gauntlets",
+        "description": "",
+        "level": 21,
+        "reqlevel": 16,
+        "classs": 4,
+        "subclass": 3,
+        "id": 80706,
+        "__si": 43
+    },
+    {
+        "name": "3Binding Chain",
+        "description": "",
+        "level": 23,
+        "reqlevel": 18,
+        "classs": 4,
+        "subclass": 3,
+        "id": 80714,
+        "__si": 44
+    },
+    {
+        "name": "3Bracers of Wild Growth",
+        "description": "",
+        "level": 23,
+        "reqlevel": 18,
+        "classs": 4,
+        "subclass": 2,
+        "id": 80711,
+        "__si": 45
+    },
+    {
+        "name": "3Charged Leggings",
+        "description": "",
+        "level": 23,
+        "reqlevel": 18,
+        "classs": 4,
+        "subclass": 1,
+        "id": 80712,
+        "__si": 46
+    },
+    {
+        "name": "3Farstrider Lodge Protector's Bow",
+        "description": "",
+        "level": 23,
+        "reqlevel": 18,
+        "classs": 2,
+        "subclass": 2,
+        "id": 80223,
+        "__si": 47
+    },
+    {
+        "name": "3Ancient Elven Robes",
+        "description": "A relic of the times of reckless magic use.",
+        "level": 24,
+        "classs": 4,
+        "subclass": 1,
+        "id": 51848,
+        "__si": 48
+    },
+    {
+        "name": "3Garden Shovel",
+        "description": "",
+        "level": 25,
+        "reqlevel": 20,
+        "classs": 2,
+        "subclass": 4,
+        "id": 51719,
+        "__si": 49
+    },
+    {
+        "name": "3Gloves of the Lifted Cup",
+        "description": "Cheers! May our reign over this keep be endless.",
+        "level": 26,
+        "reqlevel": 21,
+        "classs": 4,
+        "subclass": 2,
+        "id": 80715,
+        "__si": 50,
+        "__tr": {}
+    },
+    {
+        "name": "3Cowl of the Fang",
+        "description": "",
+        "level": 27,
+        "reqlevel": 22,
+        "classs": 4,
+        "subclass": 1,
+        "id": 81006,
+        "__si": 51,
+        "__tr": {}
+    },
+    {
+        "name": "3Claw of the Worgen",
+        "description": "",
+        "level": 28,
+        "reqlevel": 23,
+        "classs": 2,
+        "subclass": 13,
+        "id": 80716,
+        "__si": 52,
+        "__tr": {}
+    },
+    {
+        "name": "3Deep Striders",
+        "description": "",
+        "level": 28,
+        "reqlevel": 23,
+        "classs": 4,
+        "subclass": 1,
+        "id": 80720,
+        "__si": 53,
+        "__tr": {}
+    },
+    {
+        "name": "3Lodestone Blade",
+        "description": "The power inside is begging to be released.",
+        "level": 28,
+        "reqlevel": 28,
+        "classs": 2,
+        "subclass": 7,
+        "id": 51754,
+        "__si": 54,
+        "__tr": {}
+    },
+    {
+        "name": "3Demonic Scimitar",
+        "description": "",
+        "level": 29,
+        "reqlevel": 24,
+        "classs": 2,
+        "subclass": 7,
+        "id": 81266,
+        "__si": 55,
+        "__tr": {}
+    },
+    {
+        "name": "3Orb of the Hellcaller",
+        "description": "",
+        "level": 29,
+        "reqlevel": 24,
+        "classs": 4,
+        "subclass": 0,
+        "id": 81268,
+        "__si": 56,
+        "__tr": {}
+    },
+    {
+        "name": "3Ambient Talisman",
+        "description": "",
+        "level": 30,
+        "classs": 4,
+        "subclass": 0,
+        "id": 81417,
+        "__si": 57,
+        "__tr": {}
+    },
+    {
+        "name": "3Magnificent Necklace",
+        "description": "",
+        "level": 30,
+        "classs": 4,
+        "subclass": 0,
+        "id": 81418,
+        "__si": 58,
+        "__tr": {}
+    },
+    {
+        "name": "3Basic Guide on Necromancy",
+        "description": "101 Ways to Raise a Skeleton.",
+        "level": 30,
+        "reqlevel": 25,
+        "classs": 15,
+        "subclass": 0,
+        "id": 81257,
+        "__si": 59,
+        "__tr": {}
+    },
+    {
+        "name": "3Charged Servo Arm",
+        "description": "",
+        "level": 30,
+        "reqlevel": 25,
+        "classs": 2,
+        "subclass": 4,
+        "id": 80798,
+        "__si": 60,
+        "__tr": {}
+    },
+    {
+        "name": "3Gravedigger Boots",
+        "description": "",
+        "level": 30,
+        "reqlevel": 25,
+        "classs": 4,
+        "subclass": 1,
+        "id": 80726,
+        "__si": 61,
+        "__tr": {}
+    },
+    {
+        "name": "3Femur Staff",
+        "description": "\"LEGendary Quality.",
+        "level": 32,
+        "classs": 2,
+        "subclass": 10,
+        "id": 51833,
+        "__si": 62,
+        "__tr": {}
+    },
+    {
+        "name": "3Nathrezim Wedge",
+        "description": "Darkness envelops the blade.",
+        "level": 32,
+        "classs": 2,
+        "subclass": 0,
+        "id": 51832,
+        "__si": 63,
+        "__tr": {}
+    },
+    {
+        "name": "3Diathorus' Claw",
+        "description": "",
+        "level": 33,
+        "classs": 2,
+        "subclass": 19,
+        "id": 81290,
+        "__si": 64,
+        "__tr": {}
+    },
+    {
+        "name": "3Diathorus' Claw",
+        "description": "",
+        "level": 33,
+        "classs": 2,
+        "subclass": 19,
+        "id": 70013,
+        "__si": 65,
+        "__tr": {}
+    },
+    {
+        "name": "3Fel-Infused Ring",
+        "description": "",
+        "level": 33,
+        "classs": 4,
+        "subclass": 0,
+        "id": 70012,
+        "__si": 66,
+        "__tr": {}
+    },
+    {
+        "name": "3Fey Dreamcatcher",
+        "description": "",
+        "level": 33,
+        "reqlevel": 27,
+        "classs": 4,
+        "subclass": 0,
+        "id": 80830,
+        "__si": 67,
+        "__tr": {}
+    },
+    {
+        "name": "3Basilisk Scale Boots",
+        "description": "Poor Chomper...",
+        "level": 34,
+        "reqlevel": 29,
+        "classs": 4,
+        "subclass": 2,
+        "id": 80738,
+        "__si": 68,
+        "__tr": {}
+    },
+    {
+        "name": "3Bloodhowler",
+        "description": "",
+        "level": 34,
+        "reqlevel": 29,
+        "classs": 2,
+        "subclass": 13,
+        "id": 80809,
+        "__si": 69,
+        "__tr": {}
+    },
+    {
+        "name": "3Cursed Thornblade",
+        "description": "",
+        "level": 34,
+        "reqlevel": 29,
+        "classs": 2,
+        "subclass": 7,
+        "id": 80733,
+        "__si": 70,
+        "__tr": {}
+    },
+    {
+        "name": "3Ironfist",
+        "description": "",
+        "level": 34,
+        "reqlevel": 29,
+        "classs": 2,
+        "subclass": 13,
+        "id": 80794,
+        "__si": 71,
+        "__tr": {}
+    },
+    {
+        "name": "3Lifeflow Necklace",
+        "description": "",
+        "level": 34,
+        "reqlevel": 29,
+        "classs": 4,
+        "subclass": 0,
+        "id": 83203,
+        "__si": 72,
+        "__tr": {}
+    },
+    {
+        "name": "3Living Moss Gauntlets",
+        "description": "",
+        "level": 34,
+        "reqlevel": 29,
+        "classs": 4,
+        "subclass": 3,
+        "id": 83206,
+        "__si": 73,
+        "__tr": {}
+    },
+    {
+        "name": "3Arcane Core",
+        "description": "",
+        "level": 35,
+        "reqlevel": 30,
+        "classs": 4,
+        "subclass": 0,
+        "id": 80804,
+        "__si": 74,
+        "__tr": {}
+    },
+    {
+        "name": "3Backwater Bruiser's Cuirass",
+        "description": "Its seen better days, most of which involved keeping order.",
+        "level": 35,
+        "reqlevel": 30,
+        "classs": 4,
+        "subclass": 3,
+        "id": 81310,
+        "__si": 75,
+        "__tr": {}
+    },
+    {
+        "name": "3Darkcaster Gloves",
+        "description": "",
+        "level": 35,
+        "reqlevel": 30,
+        "classs": 4,
+        "subclass": 1,
+        "id": 80743,
+        "__si": 76,
+        "__tr": {}
+    },
+    {
+        "name": "3Crackling Zapper",
+        "description": "For really big bugs.",
+        "level": 36,
+        "classs": 2,
+        "subclass": 19,
+        "id": 81320,
+        "__si": 77,
+        "__tr": {}
+    },
+    {
+        "name": "3Glyphed Baton",
+        "description": "",
+        "level": 36,
+        "classs": 2,
+        "subclass": 10,
+        "id": 50531,
+        "__si": 78,
+        "__tr": {}
+    },
+    {
+        "name": "3Grol's Band",
+        "description": "",
+        "level": 36,
+        "classs": 4,
+        "subclass": 0,
+        "id": 60179,
+        "__si": 79,
+        "__tr": {}
+    },
+    {
+        "name": "3Book of Advanced Mojobending",
+        "description": "",
+        "level": 36,
+        "reqlevel": 30,
+        "classs": 4,
+        "subclass": 0,
+        "id": 50625,
+        "__si": 80,
+        "__tr": {}
+    },
+    {
+        "name": "3Chanting Rod",
+        "description": "",
+        "level": 36,
+        "reqlevel": 30,
+        "classs": 2,
+        "subclass": 19,
+        "id": 50629,
+        "__si": 81,
+        "__tr": {}
+    },
+    {
+        "name": "3Curved Longsword",
+        "description": "",
+        "level": 36,
+        "reqlevel": 30,
+        "classs": 2,
+        "subclass": 8,
+        "id": 50620,
+        "__si": 82,
+        "__tr": {}
+    },
+    {
+        "name": "3Curved Subtle Needler",
+        "description": "",
+        "level": 36,
+        "reqlevel": 30,
+        "classs": 2,
+        "subclass": 15,
+        "id": 50614,
+        "__si": 83,
+        "__tr": {}
+    },
+    {
+        "name": "3Deflecting Broadaxe",
+        "description": "",
+        "level": 36,
+        "reqlevel": 30,
+        "classs": 2,
+        "subclass": 0,
+        "id": 50621,
+        "__si": 84,
+        "__tr": {}
+    },
+    {
+        "name": "3Drudge Enforcer's Bow",
+        "description": "",
+        "level": 36,
+        "reqlevel": 30,
+        "classs": 2,
+        "subclass": 2,
+        "id": 50630,
+        "__si": 85,
+        "__tr": {}
+    },
+    {
+        "name": "3Feather Garbed Spear",
+        "description": "",
+        "level": 36,
+        "reqlevel": 30,
+        "classs": 2,
+        "subclass": 6,
+        "id": 50624,
+        "__si": 86,
+        "__tr": {}
+    },
+    {
+        "name": "3Jagged Sharp Axe",
+        "description": "",
+        "level": 36,
+        "reqlevel": 30,
+        "classs": 2,
+        "subclass": 0,
+        "id": 50622,
+        "__si": 87,
+        "__tr": {}
+    },
+    {
+        "name": "3Knife of Rites",
+        "description": "",
+        "level": 36,
+        "reqlevel": 30,
+        "classs": 2,
+        "subclass": 15,
+        "id": 50615,
+        "__si": 88,
+        "__tr": {}
+    },
+    {
+        "name": "3Medic's Cane",
+        "description": "",
+        "level": 36,
+        "reqlevel": 30,
+        "classs": 2,
+        "subclass": 10,
+        "id": 50527,
+        "__si": 89,
+        "__tr": {}
+    },
+    {
+        "name": "3Mender's Walking Cane",
+        "description": "",
+        "level": 36,
+        "reqlevel": 30,
+        "classs": 2,
+        "subclass": 10,
+        "id": 50627,
+        "__si": 90,
+        "__tr": {}
+    },
+    {
+        "name": "3Mojo Deflector",
+        "description": "",
+        "level": 36,
+        "reqlevel": 30,
+        "classs": 4,
+        "subclass": 6,
+        "id": 50628,
+        "__si": 91,
+        "__tr": {}
+    },
+    {
+        "name": "3Feymist Robe",
+        "description": "",
+        "level": 36,
+        "reqlevel": 31,
+        "classs": 4,
+        "subclass": 1,
+        "id": 83207,
+        "__si": 92,
+        "__tr": {}
+    },
+    {
+        "name": "3Healing Ward",
+        "description": "",
+        "level": 36,
+        "reqlevel": 36,
+        "classs": 4,
+        "subclass": 0,
+        "id": 80806,
+        "__si": 93,
+        "__tr": {}
+    },
+    {
+        "name": "3Hardened Scorpid Boots",
+        "description": "",
+        "level": 37,
+        "reqlevel": 32,
+        "classs": 4,
+        "subclass": 2,
+        "id": 80837,
+        "__si": 94,
+        "__tr": {}
+    },
+    {
+        "name": "3Hardened Scorpid Boots",
+        "description": "",
+        "level": 37,
+        "reqlevel": 32,
+        "classs": 4,
+        "subclass": 2,
+        "id": 80838,
+        "__si": 95,
+        "__tr": {}
+    },
+    {
+        "name": "3Attuned Shoulders",
+        "description": "",
+        "level": 38,
+        "reqlevel": 33,
+        "classs": 4,
+        "subclass": 1,
+        "id": 80790,
+        "__si": 96,
+        "__tr": {}
+    },
+    {
+        "name": "3Circlet of the Crescent Moon",
+        "description": "",
+        "level": 38,
+        "reqlevel": 33,
+        "classs": 4,
+        "subclass": 1,
+        "id": 83208,
+        "__si": 97,
+        "__tr": {}
+    },
+    {
+        "name": "3Moontouched Shoulders",
+        "description": "",
+        "level": 38,
+        "reqlevel": 33,
+        "classs": 4,
+        "subclass": 2,
+        "id": 83211,
+        "__si": 98,
+        "__tr": {}
+    },
+    {
+        "name": "3Betrayer",
+        "description": "",
+        "level": 39,
+        "reqlevel": 34,
+        "classs": 2,
+        "subclass": 15,
+        "id": 83214,
+        "__si": 99,
+        "__tr": {}
+    },
+    {
+        "name": "3Blackflame Wand",
+        "description": "",
+        "level": 39,
+        "reqlevel": 34,
+        "classs": 2,
+        "subclass": 19,
+        "id": 83215,
+        "__si": 100
+    },
+    {
+        "name": "3Felflame Shard",
+        "description": "",
+        "level": 39,
+        "reqlevel": 34,
+        "classs": 4,
+        "subclass": 0,
+        "id": 83212,
+        "__si": 101
+    },
+    {
+        "name": "3Crusader's Redemption",
+        "description": "",
+        "level": 39,
+        "reqlevel": 39,
+        "classs": 2,
+        "subclass": 8,
+        "id": 51752,
+        "__si": 102
+    },
+    {
+        "name": "3Chain of Denatharion",
+        "description": "",
+        "level": 40,
+        "classs": 4,
+        "subclass": 3,
+        "id": 60180,
+        "__si": 103
+    },
+    {
+        "name": "3Chain of Loruk",
+        "description": "",
+        "level": 40,
+        "classs": 4,
+        "subclass": 3,
+        "id": 60213,
+        "__si": 104
+    },
+    {
+        "name": "3Cloak of Denatharion",
+        "description": "",
+        "level": 40,
+        "classs": 4,
+        "subclass": 0,
+        "id": 60181,
+        "__si": 105
+    },
+    {
+        "name": "3Cloak of Loruk",
+        "description": "",
+        "level": 40,
+        "classs": 4,
+        "subclass": 0,
+        "id": 60214,
+        "__si": 106
+    },
+    {
+        "name": "3Epaulets of Denatharion",
+        "description": "",
+        "level": 40,
+        "classs": 4,
+        "subclass": 1,
+        "id": 60182,
+        "__si": 107
+    },
+    {
+        "name": "3Hat of Loruk",
+        "description": "",
+        "level": 40,
+        "classs": 4,
+        "subclass": 1,
+        "id": 60216,
+        "__si": 108
+    },
+    {
+        "name": "3Mask of Denatharion",
+        "description": "",
+        "level": 40,
+        "classs": 4,
+        "subclass": 2,
+        "id": 60183,
+        "__si": 109
+    },
+    {
+        "name": "3Armored Grey Steed",
+        "description": "A veteran of some of the toughest battles fought by the Alliance.",
+        "level": 40,
+        "reqlevel": 1,
+        "classs": 15,
+        "subclass": 4,
+        "id": 81236,
+        "__si": 110
+    },
+    {
+        "name": "3Armored Vermilion Deathcharger",
+        "description": "Some horses merely adopt the dark. This horse was born in it.",
+        "level": 40,
+        "reqlevel": 1,
+        "classs": 15,
+        "subclass": 4,
+        "id": 81235,
+        "__si": 111
+    },
+    {
+        "name": "3Azure Frostsaber",
+        "description": "The lack of spots or stripes marks this beast as a descendant of the most ancient frostsaber line.",
+        "level": 40,
+        "reqlevel": 1,
+        "classs": 15,
+        "subclass": 4,
+        "id": 81232,
+        "__si": 112
+    },
+    {
+        "name": "3Brewfest Ram",
+        "description": "Brewers retired this mount from active advertising service after complaints that the beasts were \"too temperamental\" to control in major cities.",
+        "level": 40,
+        "reqlevel": 1,
+        "classs": 15,
+        "subclass": 4,
+        "id": 81234,
+        "__si": 113
+    },
+    {
+        "name": "3Happy Whimsyshire Cloud",
+        "description": "The fluffiest little cloud in Azeroth.",
+        "level": 40,
+        "reqlevel": 1,
+        "classs": 15,
+        "subclass": 4,
+        "id": 81239,
+        "__si": 114
+    },
+    {
+        "name": "3Goblin Brainwashing Device",
+        "description": "Use it on your own risk.",
+        "level": 40,
+        "reqlevel": 10,
+        "classs": 15,
+        "subclass": 0,
+        "id": 51715,
+        "__si": 115
+    },
+    {
+        "name": "3Furbolg Battle Grips",
+        "description": "",
+        "level": 40,
+        "reqlevel": 34,
+        "classs": 4,
+        "subclass": 2,
+        "id": 83223,
+        "__si": 116
+    },
+    {
+        "name": "3Groveweald Elder Cuffs",
+        "description": "",
+        "level": 40,
+        "reqlevel": 34,
+        "classs": 4,
+        "subclass": 1,
+        "id": 83222,
+        "__si": 117
+    },
+    {
+        "name": "3Horn of Engryss",
+        "description": "Marked with furbolg symbols, and used to rally the tribes",
+        "level": 40,
+        "reqlevel": 34,
+        "classs": 4,
+        "subclass": 0,
+        "id": 83224,
+        "__si": 118
+    },
+    {
+        "name": "3Bands of Ranathos",
+        "description": "",
+        "level": 40,
+        "reqlevel": 35,
+        "classs": 4,
+        "subclass": 2,
+        "id": 83226,
+        "__si": 119
+    },
+    {
+        "name": "3Bloodforged Helm",
+        "description": "",
+        "level": 40,
+        "reqlevel": 35,
+        "classs": 4,
+        "subclass": 3,
+        "id": 83216,
+        "__si": 120
+    },
+    {
+        "name": "3Bow of the Grove",
+        "description": "",
+        "level": 40,
+        "reqlevel": 35,
+        "classs": 2,
+        "subclass": 2,
+        "id": 83225,
+        "__si": 121
+    },
+    {
+        "name": "3Circlet of Cenarius",
+        "description": "",
+        "level": 40,
+        "reqlevel": 35,
+        "classs": 4,
+        "subclass": 0,
+        "id": 83229,
+        "__si": 122
+    },
+    {
+        "name": "3Barrens Zebra",
+        "description": "It has stripes!",
+        "level": 40,
+        "reqlevel": 40,
+        "classs": 15,
+        "subclass": 4,
+        "id": 50426,
+        "__si": 123
+    },
+    {
+        "name": "3Blue Rocket Car",
+        "description": "Airbags not included.",
+        "level": 40,
+        "reqlevel": 40,
+        "classs": 15,
+        "subclass": 4,
+        "id": 80462,
+        "__si": 124
+    },
+    {
+        "name": "3Green Rocket Car",
+        "description": "Fasten your seatbelts, kid!",
+        "level": 40,
+        "reqlevel": 40,
+        "classs": 15,
+        "subclass": 4,
+        "id": 80461,
+        "__si": 125
+    },
+    {
+        "name": "3Marshmallow",
+        "description": "Molkerei's favorite steed.",
+        "level": 40,
+        "reqlevel": 40,
+        "classs": 15,
+        "subclass": 4,
+        "id": 83520,
+        "__si": 126
+    },
+    {
+        "name": "2Armored Thunder Bluff Kodo",
+        "description": "An alpha member of the herd, this kodo is a prime example of the mighty creatures which thunder through Mulgore.",
+        "level": 40,
+        "reqlevel": 60,
+        "classs": 15,
+        "subclass": 4,
+        "id": 81198,
+        "__si": 127
+    },
+    {
+        "name": "2Chieftain's Kodo",
+        "description": "This Kodo with a Ceremonial Attire is usually reserved for Clan Chieftains, but after the Tauren joined the Horde, they have been made available to Champions of Thunderbluff.",
+        "level": 40,
+        "reqlevel": 60,
+        "classs": 15,
+        "subclass": 4,
+        "id": 81237,
+        "__si": 128
+    },
+    {
+        "name": "3Abomination Crossbow",
+        "description": "Made from abomination ribs and stitching. Truly horrifying.",
+        "level": 42,
+        "reqlevel": 37,
+        "classs": 2,
+        "subclass": 18,
+        "id": 80745,
+        "__si": 129
+    },
+    {
+        "name": "3Hushblade",
+        "description": "",
+        "level": 43,
+        "reqlevel": 38,
+        "classs": 2,
+        "subclass": 7,
+        "id": 80792,
+        "__si": 130
+    },
+    {
+        "name": "3Pendant of Eternal Servitute",
+        "description": "",
+        "level": 43,
+        "reqlevel": 38,
+        "classs": 4,
+        "subclass": 0,
+        "id": 80787,
+        "__si": 131
+    },
+    {
+        "name": "3Pendant of Kindred Spirit",
+        "description": "",
+        "level": 43,
+        "reqlevel": 38,
+        "classs": 4,
+        "subclass": 0,
+        "id": 80786,
+        "__si": 132
+    },
+    {
+        "name": "3Libram of the Resolute",
+        "description": "",
+        "level": 44,
+        "reqlevel": 39,
+        "classs": 4,
+        "subclass": 7,
+        "id": 51804,
+        "__si": 133
+    },
+    {
+        "name": "3Groveweald Tribal Necklace",
+        "description": "",
+        "level": 45,
+        "reqlevel": 34,
+        "classs": 4,
+        "subclass": 0,
+        "id": 83220,
+        "__si": 134
+    },
+    {
+        "name": "3Lightgraced Mallet",
+        "description": "",
+        "level": 45,
+        "reqlevel": 40,
+        "classs": 2,
+        "subclass": 4,
+        "id": 60317,
+        "__si": 135
+    },
+    {
+        "name": "3Lost Defender's Helmet",
+        "description": "",
+        "level": 46,
+        "reqlevel": 41,
+        "classs": 4,
+        "subclass": 4,
+        "id": 80810,
+        "__si": 136
+    },
+    {
+        "name": "2Cowl of Terror",
+        "description": "",
+        "level": 47,
+        "reqlevel": 42,
+        "classs": 4,
+        "subclass": 1,
+        "id": 80801,
+        "__si": 137
+    },
+    {
+        "name": "3Flamestring Bow",
+        "description": "",
+        "level": 47,
+        "reqlevel": 42,
+        "classs": 2,
+        "subclass": 2,
+        "id": 80825,
+        "__si": 138
+    },
+    {
+        "name": "3Narillasanz's Tooth",
+        "description": "A fiery rune is etched on the tooth.",
+        "level": 47,
+        "reqlevel": 42,
+        "classs": 4,
+        "subclass": 0,
+        "id": 80824,
+        "__si": 139
+    },
+    {
+        "name": "2Crown of Corruption",
+        "description": "Sealed in demonic magics.",
+        "level": 48,
+        "reqlevel": 35,
+        "classs": 4,
+        "subclass": 2,
+        "id": 60258,
+        "__si": 140
+    },
+    {
+        "name": "3Electrified Gloves",
+        "description": "",
+        "level": 48,
+        "reqlevel": 43,
+        "classs": 4,
+        "subclass": 2,
+        "id": 80747,
+        "__si": 141
+    },
+    {
+        "name": "3Enforcer's Blackjack",
+        "description": "",
+        "level": 48,
+        "reqlevel": 43,
+        "classs": 2,
+        "subclass": 5,
+        "id": 83496,
+        "__si": 142
+    },
+    {
+        "name": "3Dragonscale Leggings",
+        "description": "",
+        "level": 49,
+        "reqlevel": 44,
+        "classs": 4,
+        "subclass": 3,
+        "id": 65019,
+        "__si": 143
+    },
+    {
+        "name": "2Prismatic Crystal",
+        "description": "Always changing colors, never the same.",
+        "level": 49,
+        "reqlevel": 45,
+        "classs": 4,
+        "subclass": 0,
+        "id": 80805,
+        "__si": 144
+    },
+    {
+        "name": "2Hak'thalz of Legacy",
+        "description": "Ancestral axe of the Bloodscalp, it is said this weapon slayed the mighty raptor Valgesh.",
+        "level": 50,
+        "reqlevel": 45,
+        "classs": 2,
+        "subclass": 0,
+        "id": 60442,
+        "__si": 145
+    },
+    {
+        "name": "3Ancestral War Totem",
+        "description": "Carved by our forefathers.",
+        "level": 50,
+        "reqlevel": 45,
+        "classs": 2,
+        "subclass": 5,
+        "id": 81199,
+        "__si": 146
+    },
+    {
+        "name": "3Arena Belt",
+        "description": "",
+        "level": 50,
+        "reqlevel": 45,
+        "classs": 4,
+        "subclass": 3,
+        "id": 80846,
+        "__si": 147
+    },
+    {
+        "name": "3Arena Cord",
+        "description": "",
+        "level": 50,
+        "reqlevel": 45,
+        "classs": 4,
+        "subclass": 2,
+        "id": 80847,
+        "__si": 148
+    },
+    {
+        "name": "3Arena Girdle",
+        "description": "",
+        "level": 50,
+        "reqlevel": 45,
+        "classs": 4,
+        "subclass": 4,
+        "id": 80845,
+        "__si": 149
+    },
+    {
+        "name": "3Arena Sash",
+        "description": "",
+        "level": 50,
+        "reqlevel": 45,
+        "classs": 4,
+        "subclass": 1,
+        "id": 80848,
+        "__si": 150
+    },
+    {
+        "name": "3Bloodscalp Longbow",
+        "description": "",
+        "level": 50,
+        "reqlevel": 45,
+        "classs": 2,
+        "subclass": 2,
+        "id": 60440,
+        "__si": 151
+    },
+    {
+        "name": "3Enforcer Captain's Hat",
+        "description": "",
+        "level": 50,
+        "reqlevel": 45,
+        "classs": 4,
+        "subclass": 4,
+        "id": 83493,
+        "__si": 152
+    },
+    {
+        "name": "3Ivy Woven Cloak",
+        "description": "Don't worry, the backside has been trimmed.",
+        "level": 51,
+        "classs": 4,
+        "subclass": 1,
+        "id": 51757,
+        "__si": 153
+    },
+    {
+        "name": "2Gift of the Spider God",
+        "description": "",
+        "level": 51,
+        "reqlevel": 46,
+        "classs": 2,
+        "subclass": 8,
+        "id": 80812,
+        "__si": 154
+    },
+    {
+        "name": "3Earthsong Treaders",
+        "description": "",
+        "level": 51,
+        "reqlevel": 46,
+        "classs": 4,
+        "subclass": 3,
+        "id": 80754,
+        "__si": 155
+    },
+    {
+        "name": "3Idol of Evergrowth",
+        "description": "",
+        "level": 51,
+        "reqlevel": 46,
+        "classs": 4,
+        "subclass": 8,
+        "id": 51802,
+        "__si": 156
+    },
+    {
+        "name": "3Cape of Unbridled Growth",
+        "description": "",
+        "level": 52,
+        "reqlevel": 47,
+        "classs": 4,
+        "subclass": 1,
+        "id": 80752,
+        "__si": 157
+    },
+    {
+        "name": "3Corrupter's Focus",
+        "description": "",
+        "level": 52,
+        "reqlevel": 47,
+        "classs": 2,
+        "subclass": 19,
+        "id": 80748,
+        "__si": 158
+    },
+    {
+        "name": "3Gordunni War Beads",
+        "description": "",
+        "level": 52,
+        "reqlevel": 47,
+        "classs": 4,
+        "subclass": 0,
+        "id": 81382,
+        "__si": 159
+    },
+    {
+        "name": "3Gordunni War Harness",
+        "description": "A symbol of Ogre might",
+        "level": 52,
+        "reqlevel": 47,
+        "classs": 4,
+        "subclass": 4,
+        "id": 81380,
+        "__si": 160
+    },
+    {
+        "name": "3Isildien Ley-Stave",
+        "description": "A relic of the Highborne",
+        "level": 52,
+        "reqlevel": 47,
+        "classs": 4,
+        "subclass": 0,
+        "id": 81381,
+        "__si": 161
+    },
+    {
+        "name": "3Cursed Idol",
+        "description": "Laced with corrupting power",
+        "level": 52,
+        "reqlevel": 50,
+        "classs": 4,
+        "subclass": 0,
+        "id": 51024,
+        "__si": 162
+    },
+    {
+        "name": "3Highlord's Grasp",
+        "description": "",
+        "level": 53,
+        "reqlevel": 48,
+        "classs": 4,
+        "subclass": 3,
+        "id": 51765,
+        "__si": 163
+    },
+    {
+        "name": "2Grug'thok's Sash",
+        "description": "Has a distinctive ogre stench",
+        "level": 54,
+        "reqlevel": 47,
+        "classs": 4,
+        "subclass": 2,
+        "id": 81384,
+        "__si": 164
+    },
+    {
+        "name": "2Ashbeard's Lucky Telescope",
+        "description": "The telescope of a seasoned explorer",
+        "level": 54,
+        "reqlevel": 49,
+        "classs": 4,
+        "subclass": 0,
+        "id": 83275,
+        "__si": 165
+    },
+    {
+        "name": "3Ash Explorer Pauldrons",
+        "description": "Covered in a heavy layer of ash",
+        "level": 54,
+        "reqlevel": 49,
+        "classs": 4,
+        "subclass": 2,
+        "id": 83278,
+        "__si": 166
+    },
+    {
+        "name": "3Befouled Handwraps",
+        "description": "",
+        "level": 54,
+        "reqlevel": 49,
+        "classs": 4,
+        "subclass": 1,
+        "id": 80755,
+        "__si": 167
+    },
+    {
+        "name": "3Dark Iron Adventurer Shawl",
+        "description": "Tattered and worn, it has seen better days",
+        "level": 54,
+        "reqlevel": 49,
+        "classs": 4,
+        "subclass": 1,
+        "id": 83277,
+        "__si": 168
+    },
+    {
+        "name": "3Everflame Torch",
+        "description": "It is always burning",
+        "level": 54,
+        "reqlevel": 49,
+        "classs": 2,
+        "subclass": 4,
+        "id": 83279,
+        "__si": 169
+    },
+    {
+        "name": "3Lens of the Gorge Explorer",
+        "description": "",
+        "level": 54,
+        "reqlevel": 49,
+        "classs": 4,
+        "subclass": 1,
+        "id": 83276,
+        "__si": 170
+    },
+    {
+        "name": "3Energyseekers Cover",
+        "description": "",
+        "level": 55,
+        "classs": 4,
+        "subclass": 1,
+        "id": 81328,
+        "__si": 171
+    },
+    {
+        "name": "3Brave's Battle Harness",
+        "description": "",
+        "level": 55,
+        "reqlevel": 50,
+        "classs": 4,
+        "subclass": 2,
+        "id": 83066,
+        "__si": 172
+    },
+    {
+        "name": "3Brave's Beaded Anklewraps",
+        "description": "",
+        "level": 55,
+        "reqlevel": 50,
+        "classs": 4,
+        "subclass": 2,
+        "id": 83067,
+        "__si": 173
+    },
+    {
+        "name": "3Brave's Feathered Mantle",
+        "description": "",
+        "level": 55,
+        "reqlevel": 50,
+        "classs": 4,
+        "subclass": 2,
+        "id": 83065,
+        "__si": 174
+    },
+    {
+        "name": "3Brave's Fitted Gloves",
+        "description": "",
+        "level": 55,
+        "reqlevel": 50,
+        "classs": 4,
+        "subclass": 2,
+        "id": 83070,
+        "__si": 175
+    },
+    {
+        "name": "3Brave's Leather Belt",
+        "description": "",
+        "level": 55,
+        "reqlevel": 50,
+        "classs": 4,
+        "subclass": 2,
+        "id": 83069,
+        "__si": 176
+    },
+    {
+        "name": "3Brave's Tribal Headdress",
+        "description": "",
+        "level": 55,
+        "reqlevel": 50,
+        "classs": 4,
+        "subclass": 2,
+        "id": 83071,
+        "__si": 177
+    },
+    {
+        "name": "3Brave's War Leggings",
+        "description": "",
+        "level": 55,
+        "reqlevel": 50,
+        "classs": 4,
+        "subclass": 2,
+        "id": 83068,
+        "__si": 178
+    },
+    {
+        "name": "2Charmed Voodoo Collar",
+        "description": "Swirling in Hoodoo Magics",
+        "level": 56,
+        "reqlevel": 50,
+        "classs": 4,
+        "subclass": 0,
+        "id": 83274,
+        "__si": 179
+    },
+    {
+        "name": "3Burstshot Harquebus",
+        "description": "",
+        "level": 56,
+        "reqlevel": 51,
+        "classs": 2,
+        "subclass": 3,
+        "id": 80795,
+        "__si": 180
+    },
+    {
+        "name": "3Dalaran Wizard's Hat",
+        "description": "",
+        "level": 57,
+        "classs": 4,
+        "subclass": 1,
+        "id": 60116,
+        "__si": 181
+    },
+    {
+        "name": "3Kirin Tor Watch Grips",
+        "description": "",
+        "level": 57,
+        "classs": 4,
+        "subclass": 3,
+        "id": 60118,
+        "__si": 182
+    },
+    {
+        "name": "3Legplates of the Raider",
+        "description": "",
+        "level": 57,
+        "classs": 4,
+        "subclass": 3,
+        "id": 60407,
+        "__si": 183
+    },
+    {
+        "name": "3Mantle of Dag'grak",
+        "description": "",
+        "level": 57,
+        "classs": 4,
+        "subclass": 4,
+        "id": 60405,
+        "__si": 184
+    },
+    {
+        "name": "3Hellfire Sabatons",
+        "description": "Metals from the Outland have been used to craft these boots.",
+        "level": 57,
+        "reqlevel": 52,
+        "classs": 4,
+        "subclass": 4,
+        "id": 61065,
+        "__si": 185
+    },
+    {
+        "name": "3Cuirass of the Kirin-Eye",
+        "description": "",
+        "level": 58,
+        "classs": 4,
+        "subclass": 4,
+        "id": 60117,
+        "__si": 186
+    },
+    {
+        "name": "2Trickster's Necklace",
+        "description": "Emanates a dark energy",
+        "level": 58,
+        "reqlevel": 53,
+        "classs": 4,
+        "subclass": 0,
+        "id": 81374,
+        "__si": 187
+    },
+    {
+        "name": "3Fallen Crusader Legguards",
+        "description": "Blessed by the light to vanquish undeath",
+        "level": 58,
+        "reqlevel": 53,
+        "classs": 4,
+        "subclass": 4,
+        "id": 81355,
+        "__si": 188
+    },
+    {
+        "name": "3Footpads of the Corruptor",
+        "description": "",
+        "level": 58,
+        "reqlevel": 53,
+        "classs": 4,
+        "subclass": 1,
+        "id": 81370,
+        "__si": 189
+    },
+    {
+        "name": "3Gnarltwist Vest",
+        "description": "Lined with pure fel energy",
+        "level": 58,
+        "reqlevel": 53,
+        "classs": 4,
+        "subclass": 3,
+        "id": 81371,
+        "__si": 190
+    },
+    {
+        "name": "3Favor of Cruk'Zogg",
+        "description": "",
+        "level": 59,
+        "classs": 4,
+        "subclass": 0,
+        "id": 60348,
+        "__si": 191
+    },
+    {
+        "name": "3Gigno's Overalls",
+        "description": "",
+        "level": 59,
+        "classs": 4,
+        "subclass": 2,
+        "id": 60153,
+        "__si": 192
+    },
+    {
+        "name": "3Gigno's Spanner",
+        "description": "",
+        "level": 59,
+        "classs": 2,
+        "subclass": 4,
+        "id": 60152,
+        "__si": 193
+    },
+    {
+        "name": "3Eldreth Band",
+        "description": "This ancient ring was worn by the arcane-addicted Highborne elves.",
+        "level": 59,
+        "reqlevel": 54,
+        "classs": 4,
+        "subclass": 0,
+        "id": 61064,
+        "__si": 194
+    },
+    {
+        "name": "3Hydromancer's Peak",
+        "description": "",
+        "level": 59,
+        "reqlevel": 54,
+        "classs": 4,
+        "subclass": 1,
+        "id": 60452,
+        "__si": 195
+    },
+    {
+        "name": "3Kul Tiras Marine Helmet",
+        "description": "",
+        "level": 59,
+        "reqlevel": 54,
+        "classs": 4,
+        "subclass": 4,
+        "id": 60451,
+        "__si": 196
+    },
+    {
+        "name": "3Ancient Quel'dorei Steed",
+        "description": "Comes from a lineage of fine horses that once grazed near the shores of the Well of Eternity.",
+        "level": 60,
+        "classs": 15,
+        "subclass": 4,
+        "id": 50399,
+        "__si": 197
+    },
+    {
+        "name": "3Armored Ivory Raptor",
+        "description": "Longtime allies of the trolls, these jungle hunters form a special bond with their masters. They become steed, guardian, and friend.",
+        "level": 60,
+        "classs": 15,
+        "subclass": 4,
+        "id": 50401,
+        "__si": 198
+    },
+    {
+        "name": "3Armored Obsidian Raptor",
+        "description": "Longtime allies of the trolls, these jungle hunters form a special bond with their masters. They become steed, guardian, and friend.",
+        "level": 60,
+        "classs": 15,
+        "subclass": 4,
+        "id": 50404,
+        "__si": 199
+    },
+    {
+        "name": "3Armored Red Raptor",
+        "description": "Longtime allies of the trolls, these jungle hunters form a special bond with their masters. They become steed, guardian, and friend.",
+        "level": 60,
+        "classs": 15,
+        "subclass": 4,
+        "id": 50403,
+        "__si": 200
+    },
+    {
+        "name": "3Armored Violet Raptor",
+        "description": "Longtime allies of the trolls, these jungle hunters form a special bond with their masters. They become steed, guardian, and friend.",
+        "level": 60,
+        "classs": 15,
+        "subclass": 4,
+        "id": 50402,
+        "__si": 201
+    },
+    {
+        "name": "3City Protector's Medallion",
+        "description": "Sends you to your capital city. You must become a City Protector to use this item.",
+        "level": 60,
+        "classs": 4,
+        "subclass": 0,
+        "id": 50056,
+        "__si": 202
+    },
+    {
+        "name": "3Large Lovely Hand-Made Bag",
+        "description": "As big as your heart.",
+        "level": 60,
+        "classs": 1,
+        "subclass": 0,
+        "id": 51258,
+        "__si": 203
+    },
+    {
+        "name": "3Nightmare Dreamrunner",
+        "description": "A nightmarish steed of hardened steel and vengeful spirits, this companion will follow you to the depths of the Molten Core and back without complaint.",
+        "level": 60,
+        "classs": 15,
+        "subclass": 4,
+        "id": 50407,
+        "__si": 204
+    },
+    {
+        "name": "3Cloak of the Protector",
+        "description": "",
+        "level": 60,
+        "reqlevel": 55,
+        "classs": 4,
+        "subclass": 1,
+        "id": 80759,
+        "__si": 205
+    },
+    {
+        "name": "3Claw of Taranassz",
+        "description": "Pulsating with a foreign energy",
+        "level": 60,
+        "reqlevel": 56,
+        "classs": 2,
+        "subclass": 15,
+        "id": 81360,
+        "__si": 206
+    },
+    {
+        "name": "2Armored Azure Drake",
+        "description": "But the most important rule, the rule you can never forget, no matter how much he cries, no matter how much he begs, never feed him after midnight.",
+        "level": 60,
+        "reqlevel": 60,
+        "classs": 15,
+        "subclass": 4,
+        "id": 80692,
+        "__si": 207
+    },
+    {
+        "name": "2Armored Brown Bear",
+        "description": "The Amani trolls decorate these ferocious mounts in magic amulets and ceremonial masks as a way to venerate the bear god Nalorakk.",
+        "level": 60,
+        "reqlevel": 60,
+        "classs": 15,
+        "subclass": 4,
+        "id": 81226,
+        "__si": 208
+    },
+    {
+        "name": "2Armored Crimson Deathcharger",
+        "description": "Some horses merely adopt the dark. This horse was born in it.",
+        "level": 60,
+        "reqlevel": 60,
+        "classs": 15,
+        "subclass": 4,
+        "id": 81245,
+        "__si": 209
+    },
+    {
+        "name": "2Armored Dalaran Warhorse",
+        "description": "The powerful and unyielding white stallion.",
+        "level": 60,
+        "reqlevel": 60,
+        "classs": 15,
+        "subclass": 4,
+        "id": 81224,
+        "__si": 210
+    },
+    {
+        "name": "2Armored Darkspear Raptor",
+        "description": "Speed, cunning, and ferocity are the things trolls and raptors admire about each other.",
+        "level": 60,
+        "reqlevel": 60,
+        "classs": 15,
+        "subclass": 4,
+        "id": 81182,
+        "__si": 211
+    },
+    {
+        "name": "2Armored Ebon Deathcharger",
+        "description": "Some horses merely adopt the dark. This horse was born in it.",
+        "level": 60,
+        "reqlevel": 60,
+        "classs": 15,
+        "subclass": 4,
+        "id": 81244,
+        "__si": 212
+    },
+    {
+        "name": "2Armored Emerald Deathcharger",
+        "description": "Some horses merely adopt the dark. This horse was born in it.",
+        "level": 60,
+        "reqlevel": 60,
+        "classs": 15,
+        "subclass": 4,
+        "id": 81246,
+        "__si": 213
+    },
+    {
+        "name": "2Armored Ironforge Ram",
+        "description": "Wildhammer Fact Checker claims that this specific breed was the first type of ram domesticated by the dwarves when they settled in Dun Morogh.",
+        "level": 60,
+        "reqlevel": 60,
+        "classs": 15,
+        "subclass": 4,
+        "id": 81233,
+        "__si": 214
+    },
+    {
+        "name": "2Armored Ivory Deathcharger",
+        "description": "Some horses merely adopt the dark. This horse was born in it.",
+        "level": 60,
+        "reqlevel": 60,
+        "classs": 15,
+        "subclass": 4,
+        "id": 81247,
+        "__si": 215
+    },
+    {
+        "name": "2Armored Nightsaber",
+        "description": "When a night elf's mount perishes, it is custom for the rider to keep one of the saber's great fangs as a token of remembrance.",
+        "level": 60,
+        "reqlevel": 60,
+        "classs": 15,
+        "subclass": 4,
+        "id": 80446,
+        "__si": 216
+    },
+    {
+        "name": "2Armored Orgrimmar Wolf",
+        "description": "The wolves of the Horde are befriended, not domesticated.",
+        "level": 60,
+        "reqlevel": 60,
+        "classs": 15,
+        "subclass": 4,
+        "id": 81241,
+        "__si": 217
+    },
+    {
+        "name": "2Armored Stormwind Warhorse",
+        "description": "Trained to withstand brutal hand-to-hand combat in the fiercest battlefields.",
+        "level": 60,
+        "reqlevel": 60,
+        "classs": 15,
+        "subclass": 4,
+        "id": 81225,
+        "__si": 218
+    },
+    {
+        "name": "2Armored Thalassian Unicorn",
+        "description": "",
+        "level": 60,
+        "reqlevel": 60,
+        "classs": 15,
+        "subclass": 4,
+        "id": 80457,
+        "__si": 219
+    },
+    {
+        "name": "2Black Bear",
+        "description": "He's big, he's ready for battle, and he's a bear. What more could you want in a mount?",
+        "level": 60,
+        "reqlevel": 60,
+        "classs": 15,
+        "subclass": 4,
+        "id": 80433,
+        "__si": 220
+    },
+    {
+        "name": "2Black Scrapforged Mechaspider",
+        "description": "Smoky, sparky, and loud.",
+        "level": 60,
+        "reqlevel": 60,
+        "classs": 15,
+        "subclass": 4,
+        "id": 81192,
+        "__si": 221
+    },
+    {
+        "name": "2Blue Scrapforged Mechaspider",
+        "description": "The check engine light is always on, it's when it goes off that you should be worried.",
+        "level": 60,
+        "reqlevel": 60,
+        "classs": 15,
+        "subclass": 4,
+        "id": 81193,
+        "__si": 222
+    },
+    {
+        "name": "2Bronze Drake",
+        "description": "Lost time is never found again.",
+        "level": 60,
+        "reqlevel": 60,
+        "classs": 15,
+        "subclass": 4,
+        "id": 51252,
+        "__si": 223
+    },
+    {
+        "name": "2Brown Bear",
+        "description": "He's big, he's ready for battle, and he's a bear. What more could you want in a mount?",
+        "level": 60,
+        "reqlevel": 60,
+        "classs": 15,
+        "subclass": 4,
+        "id": 80438,
+        "__si": 224
+    },
+    {
+        "name": "2Green Scrapforged Mechaspider",
+        "description": "This mechaspider specializes in drilling, clamping, and shooting at the same time. A typical gnome invention.",
+        "level": 60,
+        "reqlevel": 60,
+        "classs": 15,
+        "subclass": 4,
+        "id": 81194,
+        "__si": 225
+    },
+    {
+        "name": "2Green Shredder X-0524B",
+        "description": "The destructive nature of goblins is best characterized by their shredders.",
+        "level": 60,
+        "reqlevel": 60,
+        "classs": 15,
+        "subclass": 4,
+        "id": 81191,
+        "__si": 226
+    },
+    {
+        "name": "2Ornate Thalassian Unicorn",
+        "description": "",
+        "level": 60,
+        "reqlevel": 60,
+        "classs": 15,
+        "subclass": 4,
+        "id": 80458,
+        "__si": 227
+    },
+    {
+        "name": "2Red Scrapforged Mechaspider",
+        "description": "Four-legged machine of destruction, for your riding pleasure.",
+        "level": 60,
+        "reqlevel": 60,
+        "classs": 15,
+        "subclass": 4,
+        "id": 81195,
+        "__si": 228
+    },
+    {
+        "name": "2Red Shredder X-0524A",
+        "description": "Fueled by a desire to extract and exploit the natural wonders of Azeroth.",
+        "level": 60,
+        "reqlevel": 60,
+        "classs": 15,
+        "subclass": 4,
+        "id": 81190,
+        "__si": 229
+    },
+    {
+        "name": "2Spectral Gryphon Essence",
+        "description": "",
+        "level": 60,
+        "reqlevel": 60,
+        "classs": 15,
+        "subclass": 4,
+        "id": 50405,
+        "__si": 230
+    },
+    {
+        "name": "3Inflatable Woman",
+        "description": "Happy Birthday, Smultron!",
+        "level": 60,
+        "reqlevel": 60,
+        "classs": 0,
+        "subclass": 0,
+        "id": 51840,
+        "__si": 231
+    },
+    {
+        "name": "3Azure-Scale Sabatons",
+        "description": "",
+        "level": 61,
+        "reqlevel": 56,
+        "classs": 4,
+        "subclass": 4,
+        "id": 81362,
+        "__si": 232
+    },
+    {
+        "name": "3Bleeding Heart Talisman",
+        "description": "",
+        "level": 61,
+        "reqlevel": 56,
+        "classs": 4,
+        "subclass": 0,
+        "id": 81016,
+        "__si": 233
+    },
+    {
+        "name": "3Bloodfallen Cloak",
+        "description": "Stained with the blood of innocents.",
+        "level": 61,
+        "reqlevel": 56,
+        "classs": 4,
+        "subclass": 1,
+        "id": 81122,
+        "__si": 234
+    },
+    {
+        "name": "3Carapace of the Spider Queen",
+        "description": "",
+        "level": 61,
+        "reqlevel": 56,
+        "classs": 4,
+        "subclass": 2,
+        "id": 80758,
+        "__si": 235
+    },
+    {
+        "name": "3Circlet of the Living Volcano",
+        "description": "",
+        "level": 61,
+        "reqlevel": 56,
+        "classs": 4,
+        "subclass": 1,
+        "id": 80850,
+        "__si": 236
+    },
+    {
+        "name": "3Coif of the Lost Soul",
+        "description": "",
+        "level": 61,
+        "reqlevel": 56,
+        "classs": 4,
+        "subclass": 3,
+        "id": 83258,
+        "__si": 237
+    },
+    {
+        "name": "3Crimson Defender's Leggings",
+        "description": "",
+        "level": 61,
+        "reqlevel": 56,
+        "classs": 4,
+        "subclass": 4,
+        "id": 81123,
+        "__si": 238
+    },
+    {
+        "name": "3Crimson Spellblade",
+        "description": "",
+        "level": 61,
+        "reqlevel": 56,
+        "classs": 2,
+        "subclass": 7,
+        "id": 81018,
+        "__si": 239
+    },
+    {
+        "name": "3Earthclad Bracers",
+        "description": "",
+        "level": 61,
+        "reqlevel": 56,
+        "classs": 4,
+        "subclass": 4,
+        "id": 80851,
+        "__si": 240
+    },
+    {
+        "name": "3Footman's Breastplate",
+        "description": "",
+        "level": 61,
+        "reqlevel": 56,
+        "classs": 4,
+        "subclass": 3,
+        "id": 83260,
+        "__si": 241
+    },
+    {
+        "name": "3Frostbitten Shoulders",
+        "description": "",
+        "level": 61,
+        "reqlevel": 56,
+        "classs": 4,
+        "subclass": 1,
+        "id": 80841,
+        "__si": 242
+    },
+    {
+        "name": "3Gauntlets of the Myrimidon",
+        "description": "",
+        "level": 61,
+        "reqlevel": 56,
+        "classs": 4,
+        "subclass": 3,
+        "id": 81019,
+        "__si": 243
+    },
+    {
+        "name": "3Girdle of Fading Hope",
+        "description": "",
+        "level": 61,
+        "reqlevel": 56,
+        "classs": 4,
+        "subclass": 1,
+        "id": 81017,
+        "__si": 244
+    },
+    {
+        "name": "3Inquisitor's Orb",
+        "description": "",
+        "level": 61,
+        "reqlevel": 56,
+        "classs": 4,
+        "subclass": 0,
+        "id": 81125,
+        "__si": 245
+    },
+    {
+        "name": "3Old Knighthood Blade",
+        "description": "Put in service to the first Knight's of Lordaeron",
+        "level": 61,
+        "reqlevel": 56,
+        "classs": 2,
+        "subclass": 7,
+        "id": 83259,
+        "__si": 246
+    },
+    {
+        "name": "3Demon Watcher's Ring",
+        "description": "",
+        "level": 61,
+        "reqlevel": 57,
+        "classs": 4,
+        "subclass": 0,
+        "id": 83268,
+        "__si": 247
+    },
+    {
+        "name": "3Caer Darrow Reserve Rifle",
+        "description": "",
+        "level": 62,
+        "reqlevel": 56,
+        "classs": 2,
+        "subclass": 3,
+        "id": 83257,
+        "__si": 248
+    },
+    {
+        "name": "3Dampener's Pauldron's",
+        "description": "",
+        "level": 62,
+        "reqlevel": 56,
+        "classs": 4,
+        "subclass": 2,
+        "id": 81361,
+        "__si": 249
+    },
+    {
+        "name": "3Azshara Keepers Staff",
+        "description": "",
+        "level": 62,
+        "reqlevel": 57,
+        "classs": 2,
+        "subclass": 10,
+        "id": 60333,
+        "__si": 250
+    },
+    {
+        "name": "3Blighted Mind Leggings",
+        "description": "",
+        "level": 62,
+        "reqlevel": 57,
+        "classs": 4,
+        "subclass": 2,
+        "id": 51745,
+        "__si": 251
+    },
+    {
+        "name": "3Bracers of Demonic Hunt",
+        "description": "Surging with the power to destroy",
+        "level": 62,
+        "reqlevel": 57,
+        "classs": 4,
+        "subclass": 3,
+        "id": 83267,
+        "__si": 252
+    },
+    {
+        "name": "3Cryptbone Hauberk",
+        "description": "",
+        "level": 62,
+        "reqlevel": 57,
+        "classs": 4,
+        "subclass": 3,
+        "id": 51741,
+        "__si": 253
+    },
+    {
+        "name": "3Dark Reaver",
+        "description": "",
+        "level": 62,
+        "reqlevel": 57,
+        "classs": 2,
+        "subclass": 8,
+        "id": 81057,
+        "__si": 254
+    },
+    {
+        "name": "3Demon Hunter's Blindfold",
+        "description": "To become sightless, is to see the demonic",
+        "level": 62,
+        "reqlevel": 57,
+        "classs": 4,
+        "subclass": 2,
+        "id": 83265,
+        "__si": 255
+    },
+    {
+        "name": "3Helmet of the Scarlet Avenger",
+        "description": "A blazing heart and a pile of heretics at your feet.",
+        "level": 62,
+        "reqlevel": 57,
+        "classs": 4,
+        "subclass": 4,
+        "id": 81131,
+        "__si": 256
+    },
+    {
+        "name": "3Helmet of the Scarlet Avenger",
+        "description": "A blazing heart and a pile of heretics at your feet.",
+        "level": 62,
+        "reqlevel": 57,
+        "classs": 4,
+        "subclass": 4,
+        "id": 81124,
+        "__si": 257
+    },
+    {
+        "name": "3Lost Templar's Artifact",
+        "description": "He met a terrible fate.",
+        "level": 62,
+        "reqlevel": 57,
+        "classs": 4,
+        "subclass": 0,
+        "id": 51743,
+        "__si": 258
+    },
+    {
+        "name": "3Mindpiercer Band",
+        "description": "",
+        "level": 62,
+        "reqlevel": 57,
+        "classs": 4,
+        "subclass": 0,
+        "id": 51747,
+        "__si": 259
+    },
+    {
+        "name": "3Necromancer's Skullcap",
+        "description": "",
+        "level": 62,
+        "reqlevel": 57,
+        "classs": 4,
+        "subclass": 1,
+        "id": 51748,
+        "__si": 260
+    },
+    {
+        "name": "3Necrotic Mantle",
+        "description": "",
+        "level": 62,
+        "reqlevel": 57,
+        "classs": 4,
+        "subclass": 1,
+        "id": 51742,
+        "__si": 261
+    },
+    {
+        "name": "2Shard of the Moon",
+        "description": "Glimmers in the moonlight with potent power",
+        "level": 62,
+        "reqlevel": 58,
+        "classs": 4,
+        "subclass": 0,
+        "id": 81379,
+        "__si": 262
+    },
+    {
+        "name": "3Enfused Moon Crown",
+        "description": "",
+        "level": 62,
+        "reqlevel": 58,
+        "classs": 4,
+        "subclass": 1,
+        "id": 81377,
+        "__si": 263
+    },
+    {
+        "name": "3Kargron's Leggings",
+        "description": "Worn and scarred by ages of battle",
+        "level": 62,
+        "reqlevel": 59,
+        "classs": 4,
+        "subclass": 2,
+        "id": 81365,
+        "__si": 264
+    },
+    {
+        "name": "3Breastplate of the Dark Reaver",
+        "description": "",
+        "level": 62,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 81052,
+        "__si": 265
+    },
+    {
+        "name": "3Crown of the Dark Reaver",
+        "description": "",
+        "level": 62,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 81050,
+        "__si": 266
+    },
+    {
+        "name": "3Epaulets of the Dark Reaver",
+        "description": "",
+        "level": 62,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 81051,
+        "__si": 267
+    },
+    {
+        "name": "3Girdle of the Dark Reaver",
+        "description": "",
+        "level": 62,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 81054,
+        "__si": 268
+    },
+    {
+        "name": "3Grasps of the Dark Reaver",
+        "description": "",
+        "level": 62,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 81053,
+        "__si": 269
+    },
+    {
+        "name": "3Greaves of the Dark Reaver",
+        "description": "",
+        "level": 62,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 81056,
+        "__si": 270
+    },
+    {
+        "name": "3Blackened Scale Leggings",
+        "description": "",
+        "level": 63,
+        "classs": 4,
+        "subclass": 3,
+        "id": 80779,
+        "__si": 271
+    },
+    {
+        "name": "3Experiment D2X3",
+        "description": "Interesting result. -Koli",
+        "level": 63,
+        "classs": 2,
+        "subclass": 5,
+        "id": 80781,
+        "__si": 272
+    },
+    {
+        "name": "3Mechanist's Bonechopper Replica",
+        "description": "",
+        "level": 63,
+        "classs": 2,
+        "subclass": 7,
+        "id": 81288,
+        "__si": 273
+    },
+    {
+        "name": "3Bottle of Good Mojo",
+        "description": "",
+        "level": 63,
+        "reqlevel": 35,
+        "classs": 4,
+        "subclass": 0,
+        "id": 80785,
+        "__si": 274
+    },
+    {
+        "name": "3Gauntlets of Force",
+        "description": "",
+        "level": 63,
+        "reqlevel": 55,
+        "classs": 4,
+        "subclass": 4,
+        "id": 70062,
+        "__si": 275
+    },
+    {
+        "name": "3Gauntlets of Wrangling",
+        "description": "",
+        "level": 63,
+        "reqlevel": 55,
+        "classs": 4,
+        "subclass": 4,
+        "id": 70051,
+        "__si": 276
+    },
+    {
+        "name": "2Terrorblade Glaive",
+        "description": "Crafted to destroy demonic corruption",
+        "level": 63,
+        "reqlevel": 57,
+        "classs": 2,
+        "subclass": 7,
+        "id": 83269,
+        "__si": 277
+    },
+    {
+        "name": "3Girdle of Hope",
+        "description": "",
+        "level": 63,
+        "reqlevel": 57,
+        "classs": 4,
+        "subclass": 4,
+        "id": 70063,
+        "__si": 278
+    },
+    {
+        "name": "2The Wolf Horn of Orgrimmar",
+        "description": "",
+        "level": 63,
+        "reqlevel": 58,
+        "classs": 4,
+        "subclass": 0,
+        "id": 80793,
+        "__si": 279
+    },
+    {
+        "name": "3Arcanite Shackles",
+        "description": "",
+        "level": 63,
+        "reqlevel": 58,
+        "classs": 4,
+        "subclass": 4,
+        "id": 80774,
+        "__si": 280
+    },
+    {
+        "name": "3Banshee's Veil",
+        "description": "",
+        "level": 63,
+        "reqlevel": 58,
+        "classs": 4,
+        "subclass": 1,
+        "id": 60409,
+        "__si": 281
+    },
+    {
+        "name": "3Blackteeth Necklace",
+        "description": "",
+        "level": 63,
+        "reqlevel": 58,
+        "classs": 4,
+        "subclass": 0,
+        "id": 80765,
+        "__si": 282
+    },
+    {
+        "name": "3Breastplate of Forgotten Valor",
+        "description": "Forgotten, but not lost.",
+        "level": 63,
+        "reqlevel": 58,
+        "classs": 4,
+        "subclass": 4,
+        "id": 70055,
+        "__si": 283
+    },
+    {
+        "name": "3Breastplate of Fortitutde",
+        "description": "",
+        "level": 63,
+        "reqlevel": 58,
+        "classs": 4,
+        "subclass": 4,
+        "id": 70058,
+        "__si": 284
+    },
+    {
+        "name": "3Crown of Flowers",
+        "description": "",
+        "level": 63,
+        "reqlevel": 58,
+        "classs": 4,
+        "subclass": 1,
+        "id": 80761,
+        "__si": 285
+    },
+    {
+        "name": "3Damien's Sorrow",
+        "description": "The arms have been ripped apart.",
+        "level": 63,
+        "reqlevel": 58,
+        "classs": 4,
+        "subclass": 2,
+        "id": 80773,
+        "__si": 286
+    },
+    {
+        "name": "3Dark Paladin's Gauntlets",
+        "description": "",
+        "level": 63,
+        "reqlevel": 58,
+        "classs": 4,
+        "subclass": 4,
+        "id": 80771,
+        "__si": 287
+    },
+    {
+        "name": "3Eveningstar Gloves",
+        "description": "Gloves of the Winterspring Keepers",
+        "level": 63,
+        "reqlevel": 58,
+        "classs": 4,
+        "subclass": 2,
+        "id": 81378,
+        "__si": 288
+    },
+    {
+        "name": "3Felguard's Visage",
+        "description": "",
+        "level": 63,
+        "reqlevel": 58,
+        "classs": 4,
+        "subclass": 3,
+        "id": 60428,
+        "__si": 289
+    },
+    {
+        "name": "3Highmaul Ring",
+        "description": "",
+        "level": 63,
+        "reqlevel": 58,
+        "classs": 4,
+        "subclass": 0,
+        "id": 80766,
+        "__si": 290
+    },
+    {
+        "name": "3Impskin Gloves",
+        "description": "",
+        "level": 63,
+        "reqlevel": 58,
+        "classs": 4,
+        "subclass": 1,
+        "id": 80777,
+        "__si": 291
+    },
+    {
+        "name": "3Moontouched Girdle",
+        "description": "Glimmers with the blessing of the moon",
+        "level": 63,
+        "reqlevel": 58,
+        "classs": 4,
+        "subclass": 4,
+        "id": 81376,
+        "__si": 292
+    },
+    {
+        "name": "3Necrolyte Boots",
+        "description": "",
+        "level": 63,
+        "reqlevel": 58,
+        "classs": 4,
+        "subclass": 1,
+        "id": 80769,
+        "__si": 293
+    },
+    {
+        "name": "3Necrolyte Skullcap",
+        "description": "",
+        "level": 63,
+        "reqlevel": 58,
+        "classs": 4,
+        "subclass": 1,
+        "id": 80770,
+        "__si": 294
+    },
+    {
+        "name": "3Greaves of Servitude",
+        "description": "",
+        "level": 63,
+        "reqlevel": 59,
+        "classs": 4,
+        "subclass": 4,
+        "id": 70060,
+        "__si": 295
+    },
+    {
+        "name": "3Chieftain's Ceremonial Mantle",
+        "description": "",
+        "level": 63,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 2,
+        "id": 81167,
+        "__si": 296
+    },
+    {
+        "name": "3Crown of Sacrifice",
+        "description": "",
+        "level": 63,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 70057,
+        "__si": 297
+    },
+    {
+        "name": "3Epaulets of Courage",
+        "description": "",
+        "level": 63,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 70064,
+        "__si": 298
+    },
+    {
+        "name": "3Horned Helm of Ancient Kings",
+        "description": "A relic of royal proportions.",
+        "level": 63,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 70056,
+        "__si": 299
+    },
+    {
+        "name": "3Chieftain's Ceremonial Headdress",
+        "description": "",
+        "level": 64,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 2,
+        "id": 81223,
+        "__si": 300
+    },
+    {
+        "name": "2Breastplate of the Chromatic Flight",
+        "description": "",
+        "level": 65,
+        "classs": 4,
+        "subclass": 3,
+        "id": 83416,
+        "__si": 301
+    },
+    {
+        "name": "2Flintlocke's Hand Cannon",
+        "description": "Also good for shooting woodchucks.",
+        "level": 65,
+        "classs": 2,
+        "subclass": 3,
+        "id": 61011,
+        "__si": 302
+    },
+    {
+        "name": "2Shard of Eternity",
+        "description": "",
+        "level": 65,
+        "classs": 4,
+        "subclass": 0,
+        "id": 61012,
+        "__si": 303
+    },
+    {
+        "name": "2Shoulderguards of the Lightbringer",
+        "description": "",
+        "level": 65,
+        "classs": 4,
+        "subclass": 4,
+        "id": 83417,
+        "__si": 304
+    },
+    {
+        "name": "2Temporal Bronze Boots",
+        "description": "",
+        "level": 65,
+        "classs": 4,
+        "subclass": 4,
+        "id": 61007,
+        "__si": 305
+    },
+    {
+        "name": "2Time-Shifting Wheel",
+        "description": "",
+        "level": 65,
+        "classs": 4,
+        "subclass": 6,
+        "id": 61009,
+        "__si": 306
+    },
+    {
+        "name": "2Wing of the Time-Lord",
+        "description": "",
+        "level": 65,
+        "classs": 4,
+        "subclass": 1,
+        "id": 61010,
+        "__si": 307
+    },
+    {
+        "name": "3Boots of Flowing Sands",
+        "description": "",
+        "level": 65,
+        "classs": 4,
+        "subclass": 2,
+        "id": 61005,
+        "__si": 308
+    },
+    {
+        "name": "3Claw of the Infinite",
+        "description": "",
+        "level": 65,
+        "classs": 2,
+        "subclass": 15,
+        "id": 61001,
+        "__si": 309
+    },
+    {
+        "name": "3Delicious Birthday Cake",
+        "description": "Happy Birthday, Turtle WoW!",
+        "level": 65,
+        "classs": 0,
+        "subclass": 0,
+        "id": 83271,
+        "__si": 310
+    },
+    {
+        "name": "3Gauntlets of Temporal Guidance",
+        "description": "",
+        "level": 65,
+        "classs": 4,
+        "subclass": 3,
+        "id": 61013,
+        "__si": 311
+    },
+    {
+        "name": "3Band of the Old Horde",
+        "description": "Etched with symbols of the Blackrock Clan",
+        "level": 65,
+        "reqlevel": 59,
+        "classs": 4,
+        "subclass": 0,
+        "id": 81367,
+        "__si": 312
+    },
+    {
+        "name": "2Ashskin Belt",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 2,
+        "id": 81265,
+        "__si": 313
+    },
+    {
+        "name": "2Band of Ancient Lethality",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 0,
+        "id": 83237,
+        "__si": 314
+    },
+    {
+        "name": "2Boots of Blistering Flames",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 1,
+        "id": 81261,
+        "__si": 315
+    },
+    {
+        "name": "2Charm of Dark Domination",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 0,
+        "id": 83233,
+        "__si": 316
+    },
+    {
+        "name": "2Chronobreaker",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 2,
+        "subclass": 8,
+        "id": 61049,
+        "__si": 317
+    },
+    {
+        "name": "2Core Forged Helmet",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 81262,
+        "__si": 318
+    },
+    {
+        "name": "2Eye of the Abyss",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 0,
+        "id": 61043,
+        "__si": 319
+    },
+    {
+        "name": "2Lavashard Axe",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 2,
+        "subclass": 0,
+        "id": 81260,
+        "__si": 320
+    },
+    {
+        "name": "2Lost Dark Iron Chain",
+        "description": "The initials T.S. are etched on a chain link.",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 0,
+        "id": 81263,
+        "__si": 321
+    },
+    {
+        "name": "2Mantle of Twisted Damnation",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 1,
+        "id": 83464,
+        "__si": 322
+    },
+    {
+        "name": "2Righteous Crusader's Helmet",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 60437,
+        "__si": 323
+    },
+    {
+        "name": "2Ring of the Abyss Watcher",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 0,
+        "id": 83238,
+        "__si": 324
+    },
+    {
+        "name": "2Ring of the Whispering Mist",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 0,
+        "id": 83240,
+        "__si": 325
+    },
+    {
+        "name": "2Shoulderpads of True Flight",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 3,
+        "id": 81264,
+        "__si": 326
+    },
+    {
+        "name": "2Signet of the Voidwalker",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 0,
+        "id": 83239,
+        "__si": 327
+    },
+    {
+        "name": "2The Ripper",
+        "description": "Covered with countless different venoms, some better left unnamed.",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 2,
+        "subclass": 15,
+        "id": 60422,
+        "__si": 328
+    },
+    {
+        "name": "2Voidclaw Choker",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 0,
+        "id": 83234,
+        "__si": 329
+    },
+    {
+        "name": "2Voidstar",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 2,
+        "subclass": 19,
+        "id": 61020,
+        "__si": 330
+    },
+    {
+        "name": "3Almanac of Savagery",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 0,
+        "id": 60431,
+        "__si": 331
+    },
+    {
+        "name": "3Amice of the Webweaver",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 1,
+        "id": 83448,
+        "__si": 332
+    },
+    {
+        "name": "3Amulet of Warding",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 0,
+        "id": 60420,
+        "__si": 333
+    },
+    {
+        "name": "3Ancient Clutch",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 50428,
+        "__si": 334
+    },
+    {
+        "name": "3Arcane Charged Pendant",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 0,
+        "id": 60463,
+        "__si": 335
+    },
+    {
+        "name": "3Arcane Strengthened Band",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 0,
+        "id": 60465,
+        "__si": 336
+    },
+    {
+        "name": "3Arcanic Gloves",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 2,
+        "id": 61057,
+        "__si": 337
+    },
+    {
+        "name": "3Arcanite Shackles",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 60429,
+        "__si": 338
+    },
+    {
+        "name": "3Arcanoweave Boots",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 1,
+        "id": 61056,
+        "__si": 339
+    },
+    {
+        "name": "3Auspicious Ring of the Seer",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 0,
+        "id": 60367,
+        "__si": 340
+    },
+    {
+        "name": "3Azurite Legguards",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 3,
+        "id": 61054,
+        "__si": 341
+    },
+    {
+        "name": "3Band of Infinite Possibilities",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 0,
+        "id": 61032,
+        "__si": 342
+    },
+    {
+        "name": "3Band of the Marsh Bog",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 0,
+        "id": 61034,
+        "__si": 343
+    },
+    {
+        "name": "3Baneforged Leggings",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 83466,
+        "__si": 344
+    },
+    {
+        "name": "3Blackfire Orb",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 0,
+        "id": 60461,
+        "__si": 345
+    },
+    {
+        "name": "3Blackteeth Necklace",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 0,
+        "id": 60412,
+        "__si": 346
+    },
+    {
+        "name": "3Blackthorn Band",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 0,
+        "id": 61051,
+        "__si": 347
+    },
+    {
+        "name": "3Blademaster's Blindfold",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 2,
+        "id": 60414,
+        "__si": 348
+    },
+    {
+        "name": "3Boneshatter Maul",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 2,
+        "subclass": 5,
+        "id": 83440,
+        "__si": 349
+    },
+    {
+        "name": "3Bonewall",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 6,
+        "id": 83444,
+        "__si": 350
+    },
+    {
+        "name": "3Boots of Crying Rivers",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 1,
+        "id": 60411,
+        "__si": 351
+    },
+    {
+        "name": "3Boots of the Riftwalker",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 61036,
+        "__si": 352
+    },
+    {
+        "name": "3Bracers of Lost Souls",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 2,
+        "id": 60423,
+        "__si": 353
+    },
+    {
+        "name": "3Bracers of the Inevitable Fate",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 2,
+        "id": 50432,
+        "__si": 354
+    },
+    {
+        "name": "3Breastplate of the Lost Champion",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 61037,
+        "__si": 355
+    },
+    {
+        "name": "3Breastplate of the Wild Hunt",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 2,
+        "id": 61023,
+        "__si": 356
+    },
+    {
+        "name": "3Bulwark of the Crimson Guard",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 6,
+        "id": 61028,
+        "__si": 357
+    },
+    {
+        "name": "3Cadaverlink Vest",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 3,
+        "id": 83462,
+        "__si": 358
+    },
+    {
+        "name": "3Charged Arcane Ring",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 0,
+        "id": 60459,
+        "__si": 359
+    },
+    {
+        "name": "3Cloak of Atonement",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 1,
+        "id": 60500,
+        "__si": 360
+    },
+    {
+        "name": "3Cloak of Elemental Warding",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 1,
+        "id": 61018,
+        "__si": 361
+    },
+    {
+        "name": "3Clutch of Hivaxxis",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 2,
+        "id": 83447,
+        "__si": 362
+    },
+    {
+        "name": "3Consumer Shackles",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 83459,
+        "__si": 363
+    },
+    {
+        "name": "3Corpsekeeper's Charge",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 0,
+        "id": 83468,
+        "__si": 364
+    },
+    {
+        "name": "3Corroded Plate Belt",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 61062,
+        "__si": 365
+    },
+    {
+        "name": "3Cover of the Necromancer",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 1,
+        "id": 83472,
+        "__si": 366
+    },
+    {
+        "name": "3Cowl of Mivax",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 1,
+        "id": 83451,
+        "__si": 367
+    },
+    {
+        "name": "3Crocolisk Tooth Necklace",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 0,
+        "id": 61029,
+        "__si": 368
+    },
+    {
+        "name": "3Crown of Lost Memories",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 1,
+        "id": 60408,
+        "__si": 369
+    },
+    {
+        "name": "3Cryptstone Circlet",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 1,
+        "id": 83469,
+        "__si": 370
+    },
+    {
+        "name": "3Cuffs of the Justicar",
+        "description": "Created with the purpose of dispensing justice",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 2,
+        "id": 83263,
+        "__si": 371
+    },
+    {
+        "name": "3Damien's Sorrow",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 2,
+        "id": 60421,
+        "__si": 372
+    },
+    {
+        "name": "3Darksoul Band",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 0,
+        "id": 83449,
+        "__si": 373
+    },
+    {
+        "name": "3Deathrune Leggings",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 2,
+        "id": 83454,
+        "__si": 374
+    },
+    {
+        "name": "3Deepearth Signet",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 0,
+        "id": 83460,
+        "__si": 375
+    },
+    {
+        "name": "3Dreadskin Gloves",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 2,
+        "id": 60504,
+        "__si": 376
+    },
+    {
+        "name": "3Epaulets of the Forgotten Past",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 1,
+        "id": 61027,
+        "__si": 377
+    },
+    {
+        "name": "3Extremely Well Crafted Cuffs",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 1,
+        "id": 50431,
+        "__si": 378
+    },
+    {
+        "name": "3Fleet Scimitar",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 2,
+        "subclass": 7,
+        "id": 60384,
+        "__si": 379
+    },
+    {
+        "name": "3Fleetmaster's Cane",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 2,
+        "subclass": 10,
+        "id": 60383,
+        "__si": 380
+    },
+    {
+        "name": "3Frostchain Greaves",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 3,
+        "id": 83455,
+        "__si": 381
+    },
+    {
+        "name": "3Gauntlets of the Bogbeast",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 3,
+        "id": 61050,
+        "__si": 382
+    },
+    {
+        "name": "3Gauntlets of the Elite Guard",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 60432,
+        "__si": 383
+    },
+    {
+        "name": "3Gavel of Aqir Superiority",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 2,
+        "subclass": 5,
+        "id": 61044,
+        "__si": 384
+    },
+    {
+        "name": "3Girdle of Distant Stars",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 2,
+        "id": 61048,
+        "__si": 385
+    },
+    {
+        "name": "3Glacier Pendant",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 0,
+        "id": 83457,
+        "__si": 386
+    },
+    {
+        "name": "3Gloves of the Unknown",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 1,
+        "id": 61040,
+        "__si": 387
+    },
+    {
+        "name": "3Gore Ring of the Gladiator",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 0,
+        "id": 60366,
+        "__si": 388
+    },
+    {
+        "name": "3Greaves of the Ceaseless Expanse",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 3,
+        "id": 61024,
+        "__si": 389
+    },
+    {
+        "name": "3Greaves of the Elite Guard",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 60434,
+        "__si": 390
+    },
+    {
+        "name": "3Grellskin Gloves",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 1,
+        "id": 60424,
+        "__si": 391
+    },
+    {
+        "name": "3Guard-Captain's Chestplate",
+        "description": "Covered with blood.",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 60426,
+        "__si": 392
+    },
+    {
+        "name": "3Halberd of the Bronze Defender",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 2,
+        "subclass": 6,
+        "id": 60498,
+        "__si": 393
+    },
+    {
+        "name": "3Imbued Planar Belt",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 3,
+        "id": 61041,
+        "__si": 394
+    },
+    {
+        "name": "3Infinite Scale Bracers",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 3,
+        "id": 61052,
+        "__si": 395
+    },
+    {
+        "name": "3Leggings of Alacrity",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 3,
+        "id": 60503,
+        "__si": 396
+    },
+    {
+        "name": "3Leggings of the Nullifier",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 61058,
+        "__si": 397
+    },
+    {
+        "name": "3Legguards of the Last Stand",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 61035,
+        "__si": 398
+    },
+    {
+        "name": "3Loop of Field Medicine",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 0,
+        "id": 60368,
+        "__si": 399
+    },
+    {
+        "name": "3Magic-infused Cloak",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 1,
+        "id": 50430,
+        "__si": 400
+    },
+    {
+        "name": "3Mariner's Cuffs",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 3,
+        "id": 60388,
+        "__si": 401
+    },
+    {
+        "name": "3Marrowclaw Knuckles",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 2,
+        "subclass": 13,
+        "id": 83445,
+        "__si": 402
+    },
+    {
+        "name": "3Miasma Walkers",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 2,
+        "id": 83442,
+        "__si": 403
+    },
+    {
+        "name": "3Monolith Headguard",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 61047,
+        "__si": 404
+    },
+    {
+        "name": "3Mossheart's Heart",
+        "description": "Jagged and pure.",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 0,
+        "id": 61059,
+        "__si": 405
+    },
+    {
+        "name": "3Necrolyte's Visage",
+        "description": "The eyes have a faint glint, you feel like you're being watched.",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 1,
+        "id": 60419,
+        "__si": 406
+    },
+    {
+        "name": "3Nexus Shoulderpads",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 2,
+        "id": 61045,
+        "__si": 407
+    },
+    {
+        "name": "3Orb of Kaladoon",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 0,
+        "id": 60464,
+        "__si": 408
+    },
+    {
+        "name": "3Pauldrons of the Black Empire",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 61038,
+        "__si": 409
+    },
+    {
+        "name": "3Pauldrons of the Elite Guard",
+        "description": "",
+        "level": 65,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 60433,
+        "__si": 410
+    },
+    {
+        "name": "2Sword of the Blademaster",
+        "description": "The blade is perfectly balanced for warfare",
+        "level": 66,
+        "reqlevel": 59,
+        "classs": 2,
+        "subclass": 8,
+        "id": 81369,
+        "__si": 411
+    },
+    {
+        "name": "2Belt of Archaic Power",
+        "description": "One of Medivh's many experiments.",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 1,
+        "id": 51784,
+        "__si": 412
+    },
+    {
+        "name": "2Bloody Gladiator's Amice",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 1,
+        "id": 83427,
+        "__si": 413
+    },
+    {
+        "name": "2Bloody Gladiator's Armor",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 3,
+        "id": 60355,
+        "__si": 414
+    },
+    {
+        "name": "2Bloody Gladiator's Breastplate",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 60363,
+        "__si": 415
+    },
+    {
+        "name": "2Bloody Gladiator's Circlet",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 1,
+        "id": 83428,
+        "__si": 416
+    },
+    {
+        "name": "2Bloody Gladiator's Helm",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 60365,
+        "__si": 417
+    },
+    {
+        "name": "2Bloody Gladiator's Helmet",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 3,
+        "id": 60357,
+        "__si": 418
+    },
+    {
+        "name": "2Bloody Gladiator's Pauldrons",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 3,
+        "id": 60356,
+        "__si": 419
+    },
+    {
+        "name": "2Bloody Gladiator's Spaulders",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 60364,
+        "__si": 420
+    },
+    {
+        "name": "2Bloody Gladiator's Vestments",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 1,
+        "id": 83426,
+        "__si": 421
+    },
+    {
+        "name": "2Chestplate of the Dark Reaver",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 51771,
+        "__si": 422
+    },
+    {
+        "name": "2Circlet of Forlorn Spirits",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 1,
+        "id": 51789,
+        "__si": 423
+    },
+    {
+        "name": "2Claw of the Wildshifter",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 2,
+        "subclass": 13,
+        "id": 51797,
+        "__si": 424
+    },
+    {
+        "name": "2Crown of the Dark Reaver",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 51769,
+        "__si": 425
+    },
+    {
+        "name": "2Cryptbone Hauberk",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 3,
+        "id": 51786,
+        "__si": 426
+    },
+    {
+        "name": "2Ghoulslayer Shotgun",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 2,
+        "subclass": 3,
+        "id": 51780,
+        "__si": 427
+    },
+    {
+        "name": "2Girdle of the Dark Reaver",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 51773,
+        "__si": 428
+    },
+    {
+        "name": "2Grasp of the Dark Reaver",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 51772,
+        "__si": 429
+    },
+    {
+        "name": "2Greataxe of the Decrepit Crypt",
+        "description": "Hewn from a fragment of stone from Karazhan, latent magic still resides within.",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 2,
+        "subclass": 1,
+        "id": 51779,
+        "__si": 430
+    },
+    {
+        "name": "2Idol of the Wildshifter",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 8,
+        "id": 51798,
+        "__si": 431
+    },
+    {
+        "name": "2Legguards of the Dark Reaver",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 51775,
+        "__si": 432
+    },
+    {
+        "name": "2Libram of Veracity",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 7,
+        "id": 51799,
+        "__si": 433
+    },
+    {
+        "name": "2Lost Crusader's Artifact",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 0,
+        "id": 51778,
+        "__si": 434
+    },
+    {
+        "name": "2Mindpiercer Band",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 0,
+        "id": 51782,
+        "__si": 435
+    },
+    {
+        "name": "2Necromancer's Visage",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 1,
+        "id": 51777,
+        "__si": 436
+    },
+    {
+        "name": "2Necrotic Wake Mantle",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 1,
+        "id": 51781,
+        "__si": 437
+    },
+    {
+        "name": "2Plagued Mind Leggings",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 2,
+        "id": 51776,
+        "__si": 438
+    },
+    {
+        "name": "2Sabatons of the Dark Reaver",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 51774,
+        "__si": 439
+    },
+    {
+        "name": "2Shadowskin Bracers",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 2,
+        "id": 51783,
+        "__si": 440
+    },
+    {
+        "name": "2Shield of Consuming Darkness",
+        "description": "Green runes trace along the surface.",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 6,
+        "id": 51796,
+        "__si": 441
+    },
+    {
+        "name": "2Shoulderguards of the Dark Reaver",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 51770,
+        "__si": 442
+    },
+    {
+        "name": "2Spaulders of Insight",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 2,
+        "id": 51787,
+        "__si": 443
+    },
+    {
+        "name": "2Stoneslate Belt",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 3,
+        "id": 51785,
+        "__si": 444
+    },
+    {
+        "name": "2Tempered Runeblade",
+        "description": "You can feel a hunger to to inflict destruction deep inside.",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 2,
+        "subclass": 8,
+        "id": 81060,
+        "__si": 445
+    },
+    {
+        "name": "2The Frigid Star Ring",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 0,
+        "id": 60389,
+        "__si": 446
+    },
+    {
+        "name": "2Totem of Earthstorm",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 9,
+        "id": 51800,
+        "__si": 447
+    },
+    {
+        "name": "2Visage of the Forgotten",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 2,
+        "id": 51788,
+        "__si": 448
+    },
+    {
+        "name": "3Bloody Gladiator's Belt",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 2,
+        "id": 83429,
+        "__si": 449
+    },
+    {
+        "name": "3Bloody Gladiator's Cord",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 3,
+        "id": 60350,
+        "__si": 450
+    },
+    {
+        "name": "3Bloody Gladiator's Gauntlets",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 60359,
+        "__si": 451
+    },
+    {
+        "name": "3Bloody Gladiator's Girdle",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 60358,
+        "__si": 452
+    },
+    {
+        "name": "3Bloody Gladiator's Gloves",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 2,
+        "id": 83430,
+        "__si": 453
+    },
+    {
+        "name": "3Bloody Gladiator's Handguards",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 3,
+        "id": 60351,
+        "__si": 454
+    },
+    {
+        "name": "3Bloody Gladiator's Handwraps",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 1,
+        "id": 83421,
+        "__si": 455
+    },
+    {
+        "name": "3Bloody Gladiator's Sash",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 1,
+        "id": 83420,
+        "__si": 456
+    },
+    {
+        "name": "3Hollowbone Choker",
+        "description": "",
+        "level": 66,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 0,
+        "id": 61015,
+        "__si": 457
+    },
+    {
+        "name": "2Bloody Gladiator's Headband",
+        "description": "",
+        "level": 68,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 2,
+        "id": 83436,
+        "__si": 458
+    },
+    {
+        "name": "2Bloody Gladiator's Shoulders",
+        "description": "",
+        "level": 68,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 2,
+        "id": 83435,
+        "__si": 459
+    },
+    {
+        "name": "2Bloody Gladiator's Tunic",
+        "description": "",
+        "level": 68,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 2,
+        "id": 83434,
+        "__si": 460
+    },
+    {
+        "name": "2Sandswept Obsidian Dagger",
+        "description": "",
+        "level": 68,
+        "reqlevel": 60,
+        "classs": 2,
+        "subclass": 15,
+        "id": 81004,
+        "__si": 461
+    },
+    {
+        "name": "3Ancient Hakkari Flayer",
+        "description": "",
+        "level": 68,
+        "reqlevel": 60,
+        "classs": 2,
+        "subclass": 13,
+        "id": 81003,
+        "__si": 462
+    },
+    {
+        "name": "3Bloody Gladiator's Bands",
+        "description": "",
+        "level": 68,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 2,
+        "id": 83433,
+        "__si": 463
+    },
+    {
+        "name": "3Bloody Gladiator's Boots",
+        "description": "",
+        "level": 68,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 2,
+        "id": 83432,
+        "__si": 464
+    },
+    {
+        "name": "3Bloody Gladiator's Bracers",
+        "description": "",
+        "level": 68,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 60362,
+        "__si": 465
+    },
+    {
+        "name": "3Bloody Gladiator's Britches",
+        "description": "",
+        "level": 68,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 1,
+        "id": 83423,
+        "__si": 466
+    },
+    {
+        "name": "3Bloody Gladiator's Footwraps",
+        "description": "",
+        "level": 68,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 1,
+        "id": 83424,
+        "__si": 467
+    },
+    {
+        "name": "3Bloody Gladiator's Greaves",
+        "description": "",
+        "level": 68,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 60361,
+        "__si": 468
+    },
+    {
+        "name": "3Bloody Gladiator's Leggings",
+        "description": "",
+        "level": 68,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 3,
+        "id": 60352,
+        "__si": 469
+    },
+    {
+        "name": "3Bloody Gladiator's Legguards",
+        "description": "",
+        "level": 68,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 60360,
+        "__si": 470
+    },
+    {
+        "name": "3Bloody Gladiator's Pants",
+        "description": "",
+        "level": 68,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 2,
+        "id": 83431,
+        "__si": 471
+    },
+    {
+        "name": "3Bloody Gladiator's Trudgeons",
+        "description": "",
+        "level": 68,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 3,
+        "id": 60353,
+        "__si": 472
+    },
+    {
+        "name": "3Bloody Gladiator's Wraps",
+        "description": "",
+        "level": 68,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 1,
+        "id": 83425,
+        "__si": 473
+    },
+    {
+        "name": "3Bloody Gladiator's Wristguards",
+        "description": "",
+        "level": 68,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 3,
+        "id": 60354,
+        "__si": 474
+    },
+    {
+        "name": "3Enchant Gloves - Arcane Power",
+        "description": "",
+        "level": 70,
+        "classs": 9,
+        "subclass": 8,
+        "id": 70001,
+        "__si": 475
+    },
+    {
+        "name": "3Enchant Gloves - Holy Power",
+        "description": "",
+        "level": 70,
+        "classs": 9,
+        "subclass": 8,
+        "id": 70002,
+        "__si": 476
+    },
+    {
+        "name": "3Enchant Gloves - Nature Power",
+        "description": "",
+        "level": 70,
+        "classs": 9,
+        "subclass": 8,
+        "id": 70000,
+        "__si": 477
+    },
+    {
+        "name": "3Corrupted Plate Pauldrons",
+        "description": "",
+        "level": 70,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 50418,
+        "__si": 478
+    },
+    {
+        "name": "2Blade of the Fallen Star",
+        "description": "Forged from the remnants of a fallen star eons ago.",
+        "level": 73,
+        "reqlevel": 60,
+        "classs": 2,
+        "subclass": 7,
+        "id": 83487,
+        "__si": 479
+    },
+    {
+        "name": "2Crown of Divine Justice",
+        "description": "",
+        "level": 73,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 83483,
+        "__si": 480
+    },
+    {
+        "name": "2Desert Wind Talisman",
+        "description": "",
+        "level": 73,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 0,
+        "id": 83484,
+        "__si": 481
+    },
+    {
+        "name": "2Distress Signal Pulser",
+        "description": "ULDUM FACILITY COMPROMISED, SENDING DISTRESS SIGNAL TO ULDAMAN, UL- CRITICAL ERROR.",
+        "level": 73,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 0,
+        "id": 83482,
+        "__si": 482
+    },
+    {
+        "name": "2Failsafe Activation Key",
+        "description": "Facility Defense Matrix integrity is at 12%, breach imminent.",
+        "level": 73,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 0,
+        "id": 83481,
+        "__si": 483
+    },
+    {
+        "name": "2Fists of the Makers",
+        "description": "",
+        "level": 73,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 4,
+        "id": 83485,
+        "__si": 484
+    },
+    {
+        "name": "2Sandstalker's Shroud",
+        "description": "",
+        "level": 73,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 1,
+        "id": 83486,
+        "__si": 485
+    },
+    {
+        "name": "2Tome of Infalliable Truth",
+        "description": "",
+        "level": 73,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 0,
+        "id": 83480,
+        "__si": 486
+    },
+    {
+        "name": "2Uldum Construct Stompers",
+        "description": "",
+        "level": 73,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 3,
+        "id": 83488,
+        "__si": 487
+    },
+    {
+        "name": "2Ancient Locking Mechanism",
+        "description": "You can't make out what the runes mean.",
+        "level": 75,
+        "reqlevel": 60,
+        "classs": 15,
+        "subclass": 0,
+        "id": 83235,
+        "__si": 488
+    },
+    {
+        "name": "2Plague-Infected Robe",
+        "description": "",
+        "level": 75,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 1,
+        "id": 51736,
+        "__si": 489
+    },
+    {
+        "name": "2Scourgelord's Fang",
+        "description": "",
+        "level": 75,
+        "reqlevel": 60,
+        "classs": 2,
+        "subclass": 19,
+        "id": 51735,
+        "__si": 490
+    },
+    {
+        "name": "2Shadow-Weaver's Cape",
+        "description": "",
+        "level": 75,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 1,
+        "id": 51733,
+        "__si": 491
+    },
+    {
+        "name": "2Shawl of Haunted Memories",
+        "description": "",
+        "level": 75,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 1,
+        "id": 51734,
+        "__si": 492
+    },
+    {
+        "name": "2Shawl of Nerubian Silk",
+        "description": "",
+        "level": 75,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 1,
+        "id": 51730,
+        "__si": 493
+    },
+    {
+        "name": "2Silken Mantle of Dying Hope",
+        "description": "",
+        "level": 75,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 1,
+        "id": 51732,
+        "__si": 494
+    },
+    {
+        "name": "2Tunnel Fiend Carapace",
+        "description": "",
+        "level": 75,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 2,
+        "id": 51738,
+        "__si": 495
+    },
+    {
+        "name": "2Venom Covered Cloak",
+        "description": "",
+        "level": 75,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 1,
+        "id": 51731,
+        "__si": 496
+    },
+    {
+        "name": "2Vestments of Eternal Autumn",
+        "description": "",
+        "level": 75,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 2,
+        "id": 51737,
+        "__si": 497
+    },
+    {
+        "name": "2Crown of Skittering Shadows",
+        "description": "",
+        "level": 78,
+        "reqlevel": 60,
+        "classs": 4,
+        "subclass": 1,
+        "id": 51740,
+        "__si": 498
+    }
+]
